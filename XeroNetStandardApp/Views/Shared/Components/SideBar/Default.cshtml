@@ -1,0 +1,22 @@
+@model bool
+
+@if (Model)
+{
+    <div class="side-navbar">
+        <li class="list-sidebar">
+            <a class="link-holder" role="button" asp-area="" asp-controller="ProjectInfo" asp-action="CreateProject">Create
+                Xero Project</a>
+        </li>
+        <li class="list-sidebar">
+
+            <a class="link-holder" role="button" asp-area="" asp-controller="ProjectInfo" asp-action="GetProjects">Get Xero
+                Projects</a>
+        </li>
+    </div>
+}
+else
+{
+    <div class="side-navbar">
+        <p class="sidebar-title">Please Connect to Xero</p>
+    </div>
+}
