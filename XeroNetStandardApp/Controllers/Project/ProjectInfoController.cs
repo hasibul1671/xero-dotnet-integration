@@ -15,12 +15,6 @@ namespace XeroNetStandardApp.Controllers
         public ProjectInfoController(IOptions<XeroConfiguration> xeroConfig) : base(xeroConfig){}
 
         #region GET Endpoints
-
-        /// <summary>
-        /// Get a list of projects
-        /// <para>GET: /Projects/</para>
-        /// </summary>
-        /// <returns>Returns a list of projects</returns>
         public async Task<IActionResult> GetProjects()
         {
             var response = await Api.GetProjectsAsync(XeroToken.AccessToken, TenantId);
@@ -28,11 +22,6 @@ namespace XeroNetStandardApp.Controllers
             ViewBag.jsonResponse = response.ToJson();
             return View(response.Items);
         }
-
-        /// <summary>
-        /// Get list of contact ids for create project page
-        /// </summary>
-        /// <returns>Returns a list of tuples containing contact names and contact ids</returns>
         [HttpGet]
         public async Task<IActionResult> CreateProject()
         {
@@ -49,11 +38,6 @@ namespace XeroNetStandardApp.Controllers
 
             return View(contactInfo);
         }
-
-        /// <summary>
-        /// Get list of project names for update project page
-        /// </summary>
-        /// <returns>Returns a list of project names</returns>
         [HttpGet]
         public async Task<IActionResult> UpdateProject(Guid projectId)
         {
@@ -64,14 +48,6 @@ namespace XeroNetStandardApp.Controllers
         #endregion
 
 
-        /// <summary>
-        /// Create a new project
-        /// <para>POST: /Project #Create</para>
-        /// </summary>
-        /// <param name="contactId">Contact id to associate project with</param>
-        /// <param name="name">Name of the project</param>
-        /// <param name="estimateAmount">Estimated cost of project</param>
-        /// <returns>Redirects user to get projects page</returns>
         [HttpPost]
         public async Task<IActionResult> CreateProject(string contactId, string name, string estimateAmount)
         {
@@ -84,20 +60,12 @@ namespace XeroNetStandardApp.Controllers
             };
 
             await Api.CreateProjectAsync(XeroToken.AccessToken, TenantId, newProject);
-            
-            // Delay to ensure change reflects on get projects page
+  
             await Task.Delay(300);
 
             return RedirectToAction("GetProjects");
         }
 
-        /// <summary>
-        /// Update project
-        /// </summary>
-        /// <param name="projectId">Project id of project to update</param>
-        /// <param name="name">New name for project</param>
-        /// <param name="estimateAmount">New estimate amount for project</param>
-        /// <returns></returns>
         [HttpPost]
         public async Task<IActionResult> UpdateProject(string projectId, string name, string estimateAmount)
         {
@@ -109,7 +77,7 @@ namespace XeroNetStandardApp.Controllers
 
             await Api.UpdateProjectAsync(XeroToken.AccessToken, TenantId, Guid.Parse(projectId), updatedProject);
 
-            // Delay to ensure change reflects on get projects page
+           
             await Task.Delay(300);
 
             return RedirectToAction("GetProjects");
