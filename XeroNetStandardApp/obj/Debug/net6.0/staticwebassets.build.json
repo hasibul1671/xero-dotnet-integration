@@ -1,0 +1,4451 @@
+{
+  "Version": 1,
+  "Hash": "0rWMAOmxChUr9sntBxAxgtzQtapAj04XspHEjD8hjZM=",
+  "Source": "XeroNetStandardApp",
+  "BasePath": "_content/XeroNetStandardApp",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "XeroNetStandardApp\\wwwroot",
+      "Source": "XeroNetStandardApp",
+      "ContentRoot": "E:\\xero-intrgration-v2\\XeroNetStandardApp\\wwwroot\\",
+      "BasePath": "_content/XeroNetStandardApp",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "E:\\xero-intrgration-v2\\XeroNetStandardApp\\wwwroot\\css\\site.css",
+      "SourceId": "XeroNetStandardApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "E:\\xero-intrgration-v2\\XeroNetStandardApp\\wwwroot\\",
+      "BasePath": "_content/XeroNetStandardApp",
+      "RelativePath": "css/site#[.{fingerprint}]?.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "wy4upfurer",
+      "Integrity": "WJYrHb7N4vfwGmXzyMKUbK/WaFm7iu3q2+ruos01WjY=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\site.css"
+    },
+    {
+      "Identity": "E:\\xero-intrgration-v2\\XeroNetStandardApp\\wwwroot\\favicon.ico",
+      "SourceId": "XeroNetStandardApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "E:\\xero-intrgration-v2\\XeroNetStandardApp\\wwwroot\\",
+      "BasePath": "_content/XeroNetStandardApp",
+      "RelativePath": "favicon#[.{fingerprint}]?.ico",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "90yqlj465b",
+      "Integrity": "qU+KhVPK6oQw3UyjzAHU4xjRmCj3TLZUU/+39dni9E0=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\favicon.ico"
+    },
+    {
+      "Identity": "E:\\xero-intrgration-v2\\XeroNetStandardApp\\wwwroot\\images\\connect-white.svg",
+      "SourceId": "XeroNetStandardApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "E:\\xero-intrgration-v2\\XeroNetStandardApp\\wwwroot\\",
+      "BasePath": "_content/XeroNetStandardApp",
+      "RelativePath": "images/connect-white#[.{fingerprint}]?.svg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "l90uc7ue0z",
+      "Integrity": "JztlV+e2ihf7h5PeoyJ8fYZFQxMIPlR/Lt8agIkj11I=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\connect-white.svg"
+    },
+    {
+      "Identity": "E:\\xero-intrgration-v2\\XeroNetStandardApp\\wwwroot\\images\\DELETE.png",
+      "SourceId": "XeroNetStandardApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "E:\\xero-intrgration-v2\\XeroNetStandardApp\\wwwroot\\",
+      "BasePath": "_content/XeroNetStandardApp",
+      "RelativePath": "images/DELETE#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "yhnoonxs2g",
+      "Integrity": "Co+gVzMZbkblRjMOUntF3Bk3vgLASyAvHLH1nvCA3Zk=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\DELETE.png"
+    },
+    {
+      "Identity": "E:\\xero-intrgration-v2\\XeroNetStandardApp\\wwwroot\\images\\disconnect-white.svg",
+      "SourceId": "XeroNetStandardApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "E:\\xero-intrgration-v2\\XeroNetStandardApp\\wwwroot\\",
+      "BasePath": "_content/XeroNetStandardApp",
+      "RelativePath": "images/disconnect-white#[.{fingerprint}]?.svg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "mp6khpglxx",
+      "Integrity": "BqxCmQNS2SrJZ1HenyECw9NnOwwKF2LzdD704XwXsd0=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\disconnect-white.svg"
+    },
+    {
+      "Identity": "E:\\xero-intrgration-v2\\XeroNetStandardApp\\wwwroot\\images\\GET.png",
+      "SourceId": "XeroNetStandardApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "E:\\xero-intrgration-v2\\XeroNetStandardApp\\wwwroot\\",
+      "BasePath": "_content/XeroNetStandardApp",
+      "RelativePath": "images/GET#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "6b2s9ep8v6",
+      "Integrity": "sivBd+C75LYRrfxH87VS8u7kunGICCsFAgmhBZexfqY=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\GET.png"
+    },
+    {
+      "Identity": "E:\\xero-intrgration-v2\\XeroNetStandardApp\\wwwroot\\images\\POST.png",
+      "SourceId": "XeroNetStandardApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "E:\\xero-intrgration-v2\\XeroNetStandardApp\\wwwroot\\",
+      "BasePath": "_content/XeroNetStandardApp",
+      "RelativePath": "images/POST#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "snwscf2tsn",
+      "Integrity": "qOP0uq9/a1TyAgpcb7GT/AAMbm5lnykTGahiTMLk2v0=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\POST.png"
+    },
+    {
+      "Identity": "E:\\xero-intrgration-v2\\XeroNetStandardApp\\wwwroot\\images\\PUT.png",
+      "SourceId": "XeroNetStandardApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "E:\\xero-intrgration-v2\\XeroNetStandardApp\\wwwroot\\",
+      "BasePath": "_content/XeroNetStandardApp",
+      "RelativePath": "images/PUT#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "vgcp298wfv",
+      "Integrity": "oW7P5QFsRKStdDqW6o0wvIzVsBHhqRM2Swv7G0AKGHU=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\PUT.png"
+    },
+    {
+      "Identity": "E:\\xero-intrgration-v2\\XeroNetStandardApp\\wwwroot\\images\\xero_logo.png",
+      "SourceId": "XeroNetStandardApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "E:\\xero-intrgration-v2\\XeroNetStandardApp\\wwwroot\\",
+      "BasePath": "_content/XeroNetStandardApp",
+      "RelativePath": "images/xero_logo#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "iixwvoqxdk",
+      "Integrity": "qjBsk6t53RwMyy/J7RtjzCxvx0hPS2CtOjy4vMLrx6g=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\xero_logo.png"
+    },
+    {
+      "Identity": "E:\\xero-intrgration-v2\\XeroNetStandardApp\\wwwroot\\js\\site.js",
+      "SourceId": "XeroNetStandardApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "E:\\xero-intrgration-v2\\XeroNetStandardApp\\wwwroot\\",
+      "BasePath": "_content/XeroNetStandardApp",
+      "RelativePath": "js/site#[.{fingerprint}]?.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "hqklnnv386",
+      "Integrity": "x8CA3N7pFgf2CbjAe0V48EYlSXVdpC8YTyV6o3DCM7M=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\js\\site.js"
+    },
+    {
+      "Identity": "E:\\xero-intrgration-v2\\XeroNetStandardApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "SourceId": "XeroNetStandardApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "E:\\xero-intrgration-v2\\XeroNetStandardApp\\wwwroot\\",
+      "BasePath": "_content/XeroNetStandardApp",
+      "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid#[.{fingerprint}]?.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "9n0ta5ieki",
+      "Integrity": "ezlzqfTqJZTjEDR18neKc2tUTZtWoz3oQ/ouWY9WmO8=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Identity": "E:\\xero-intrgration-v2\\XeroNetStandardApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "SourceId": "XeroNetStandardApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "E:\\xero-intrgration-v2\\XeroNetStandardApp\\wwwroot\\",
+      "BasePath": "_content/XeroNetStandardApp",
+      "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.css#[.{fingerprint}]?.map",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "0i1dcxd824",
+      "Integrity": "2MgjO0zpqYZscatQSGWJ9Io9U8EjvXk0iYygYz1Q+Ms=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Identity": "E:\\xero-intrgration-v2\\XeroNetStandardApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "SourceId": "XeroNetStandardApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "E:\\xero-intrgration-v2\\XeroNetStandardApp\\wwwroot\\",
+      "BasePath": "_content/XeroNetStandardApp",
+      "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.min#[.{fingerprint}]?.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "vxs71z90fw",
+      "Integrity": "vdSFRAWr6LTognRmxyi6QlSO5O+MC+VGyMbziTrBmBQ=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Identity": "E:\\xero-intrgration-v2\\XeroNetStandardApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "SourceId": "XeroNetStandardApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "E:\\xero-intrgration-v2\\XeroNetStandardApp\\wwwroot\\",
+      "BasePath": "_content/XeroNetStandardApp",
+      "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.min.css#[.{fingerprint}]?.map",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "jzb7jyrjvs",
+      "Integrity": "kZzlXLpTC0WvL0AL7nXf07BJ28WnY/1H/HrKgS68Q4I=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Identity": "E:\\xero-intrgration-v2\\XeroNetStandardApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "SourceId": "XeroNetStandardApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "E:\\xero-intrgration-v2\\XeroNetStandardApp\\wwwroot\\",
+      "BasePath": "_content/XeroNetStandardApp",
+      "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot#[.{fingerprint}]?.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "nynt4yc5xr",
+      "Integrity": "cZWhU8ntBevnbhNEh3hunnIoi6dE1eUwX41sB6+bHmo=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Identity": "E:\\xero-intrgration-v2\\XeroNetStandardApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "SourceId": "XeroNetStandardApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "E:\\xero-intrgration-v2\\XeroNetStandardApp\\wwwroot\\",
+      "BasePath": "_content/XeroNetStandardApp",
+      "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.css#[.{fingerprint}]?.map",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "tgg2bl5mrw",
+      "Integrity": "3e6awqXPijx918dzyzbbHKwaDBTsIQ8Us38QY30GRms=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Identity": "E:\\xero-intrgration-v2\\XeroNetStandardApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "SourceId": "XeroNetStandardApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "E:\\xero-intrgration-v2\\XeroNetStandardApp\\wwwroot\\",
+      "BasePath": "_content/XeroNetStandardApp",
+      "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.min#[.{fingerprint}]?.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "brwg1hntyu",
+      "Integrity": "1z7sRzwNyqpcTrqPd/iXuzoApqDdjpRbHwjAZ8QMhOk=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Identity": "E:\\xero-intrgration-v2\\XeroNetStandardApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "SourceId": "XeroNetStandardApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "E:\\xero-intrgration-v2\\XeroNetStandardApp\\wwwroot\\",
+      "BasePath": "_content/XeroNetStandardApp",
+      "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.min.css#[.{fingerprint}]?.map",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "gf2dxac9qe",
+      "Integrity": "dIm3VZXztwbIlhOzVt+ggg5Dvhp28MJQGJoweOH9cAE=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Identity": "E:\\xero-intrgration-v2\\XeroNetStandardApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "SourceId": "XeroNetStandardApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "E:\\xero-intrgration-v2\\XeroNetStandardApp\\wwwroot\\",
+      "BasePath": "_content/XeroNetStandardApp",
+      "RelativePath": "lib/bootstrap/dist/css/bootstrap#[.{fingerprint}]?.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "gawgt6fljy",
+      "Integrity": "eEx7gvq+uEM0o4kUBiy/+Mxl6rHH9NQ9UzRBWHe9mXg=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Identity": "E:\\xero-intrgration-v2\\XeroNetStandardApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "SourceId": "XeroNetStandardApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "E:\\xero-intrgration-v2\\XeroNetStandardApp\\wwwroot\\",
+      "BasePath": "_content/XeroNetStandardApp",
+      "RelativePath": "lib/bootstrap/dist/css/bootstrap.css#[.{fingerprint}]?.map",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "k9n1kkbua6",
+      "Integrity": "CMAZj3JKoZUVYSxVPS/FeGatmYSvHkujo5oaZLNXx0o=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Identity": "E:\\xero-intrgration-v2\\XeroNetStandardApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "SourceId": "XeroNetStandardApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "E:\\xero-intrgration-v2\\XeroNetStandardApp\\wwwroot\\",
+      "BasePath": "_content/XeroNetStandardApp",
+      "RelativePath": "lib/bootstrap/dist/css/bootstrap.min#[.{fingerprint}]?.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "etnb7xlipe",
+      "Integrity": "rldnE7wZYJj3Q43t5v8fg1ojKRwyt0Wtfm+224CacZs=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Identity": "E:\\xero-intrgration-v2\\XeroNetStandardApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "SourceId": "XeroNetStandardApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "E:\\xero-intrgration-v2\\XeroNetStandardApp\\wwwroot\\",
+      "BasePath": "_content/XeroNetStandardApp",
+      "RelativePath": "lib/bootstrap/dist/css/bootstrap.min.css#[.{fingerprint}]?.map",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "kao5znno1s",
+      "Integrity": "xMZ0SaSBYZSHVjFdZTAT/IjRExRIxSriWcJLcA9nkj0=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Identity": "E:\\xero-intrgration-v2\\XeroNetStandardApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "SourceId": "XeroNetStandardApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "E:\\xero-intrgration-v2\\XeroNetStandardApp\\wwwroot\\",
+      "BasePath": "_content/XeroNetStandardApp",
+      "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle#[.{fingerprint}]?.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "u0biprgly9",
+      "Integrity": "srIwGYgANrjaabGVuC3G7O0jv1Xh3Kt7dIc3/P0Ebf0=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Identity": "E:\\xero-intrgration-v2\\XeroNetStandardApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "SourceId": "XeroNetStandardApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "E:\\xero-intrgration-v2\\XeroNetStandardApp\\wwwroot\\",
+      "BasePath": "_content/XeroNetStandardApp",
+      "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.js#[.{fingerprint}]?.map",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "pxamm17y9e",
+      "Integrity": "3UpdqvoTc6M2sug8WtFhr/m3tg+4zLMgoMgjqpn5n1I=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Identity": "E:\\xero-intrgration-v2\\XeroNetStandardApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "SourceId": "XeroNetStandardApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "E:\\xero-intrgration-v2\\XeroNetStandardApp\\wwwroot\\",
+      "BasePath": "_content/XeroNetStandardApp",
+      "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.min#[.{fingerprint}]?.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "hjuzisly30",
+      "Integrity": "XZfkOGd6FuhF88h5GgEmRIpXbm+hBkFo74yYDPY5rbw=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Identity": "E:\\xero-intrgration-v2\\XeroNetStandardApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "SourceId": "XeroNetStandardApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "E:\\xero-intrgration-v2\\XeroNetStandardApp\\wwwroot\\",
+      "BasePath": "_content/XeroNetStandardApp",
+      "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.min.js#[.{fingerprint}]?.map",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "u9xms436mi",
+      "Integrity": "8i3JQdKYQQcJzmbkwhwY+1XPe7Utf1LdBnYZCvNmKWc=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Identity": "E:\\xero-intrgration-v2\\XeroNetStandardApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "SourceId": "XeroNetStandardApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "E:\\xero-intrgration-v2\\XeroNetStandardApp\\wwwroot\\",
+      "BasePath": "_content/XeroNetStandardApp",
+      "RelativePath": "lib/bootstrap/dist/js/bootstrap#[.{fingerprint}]?.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "48vr37mrsy",
+      "Integrity": "LKpkBN2w3iudGRseLItcNcaMpI8qlSEUC7+DsnwGNwA=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Identity": "E:\\xero-intrgration-v2\\XeroNetStandardApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "SourceId": "XeroNetStandardApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "E:\\xero-intrgration-v2\\XeroNetStandardApp\\wwwroot\\",
+      "BasePath": "_content/XeroNetStandardApp",
+      "RelativePath": "lib/bootstrap/dist/js/bootstrap.js#[.{fingerprint}]?.map",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "vaswmcjbo4",
+      "Integrity": "R81NA2DWe8EPjZ2OUhieXYgvvXBnm78oMdeqOtSEr7c=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Identity": "E:\\xero-intrgration-v2\\XeroNetStandardApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "SourceId": "XeroNetStandardApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "E:\\xero-intrgration-v2\\XeroNetStandardApp\\wwwroot\\",
+      "BasePath": "_content/XeroNetStandardApp",
+      "RelativePath": "lib/bootstrap/dist/js/bootstrap.min#[.{fingerprint}]?.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "zu238p5lxg",
+      "Integrity": "O82ALp93hJ58HpPIcnn7uwTUWUnSvnmwNWbOrN4psVg=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Identity": "E:\\xero-intrgration-v2\\XeroNetStandardApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "SourceId": "XeroNetStandardApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "E:\\xero-intrgration-v2\\XeroNetStandardApp\\wwwroot\\",
+      "BasePath": "_content/XeroNetStandardApp",
+      "RelativePath": "lib/bootstrap/dist/js/bootstrap.min.js#[.{fingerprint}]?.map",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "sgi57dik4g",
+      "Integrity": "vMfBbEXmojM9AaHrIyKSo+20n5JM7KMyJkBCfL4pgL4=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Identity": "E:\\xero-intrgration-v2\\XeroNetStandardApp\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "SourceId": "XeroNetStandardApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "E:\\xero-intrgration-v2\\XeroNetStandardApp\\wwwroot\\",
+      "BasePath": "_content/XeroNetStandardApp",
+      "RelativePath": "lib/bootstrap/LICENSE#[.{fingerprint}]?",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "weyt030wr8",
+      "Integrity": "iMA3h2QDzhvwmVtohviPpq8VwRv3UMY/PEE+ao7bBq0=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\LICENSE"
+    },
+    {
+      "Identity": "E:\\xero-intrgration-v2\\XeroNetStandardApp\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "SourceId": "XeroNetStandardApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "E:\\xero-intrgration-v2\\XeroNetStandardApp\\wwwroot\\",
+      "BasePath": "_content/XeroNetStandardApp",
+      "RelativePath": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive#[.{fingerprint}]?.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "dvc2bfcndg",
+      "Integrity": "qbS02vMHZxdLNYKUtLPSYaSHXj1/ZwH1fv9f3XAY0LU=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Identity": "E:\\xero-intrgration-v2\\XeroNetStandardApp\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "SourceId": "XeroNetStandardApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "E:\\xero-intrgration-v2\\XeroNetStandardApp\\wwwroot\\",
+      "BasePath": "_content/XeroNetStandardApp",
+      "RelativePath": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min#[.{fingerprint}]?.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "gb7ocvbhts",
+      "Integrity": "9GycpJnliUjJDVDqP0UEu/bsm9U+3dnQUH8+3W10vkY=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Identity": "E:\\xero-intrgration-v2\\XeroNetStandardApp\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "SourceId": "XeroNetStandardApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "E:\\xero-intrgration-v2\\XeroNetStandardApp\\wwwroot\\",
+      "BasePath": "_content/XeroNetStandardApp",
+      "RelativePath": "lib/jquery-validation-unobtrusive/LICENSE#[.{fingerprint}]?.txt",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "wqejeusuyq",
+      "Integrity": "aBc/n/nO9esvq0e80G57lEYLonvE5dKKUgoozaiVfLM=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Identity": "E:\\xero-intrgration-v2\\XeroNetStandardApp\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "SourceId": "XeroNetStandardApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "E:\\xero-intrgration-v2\\XeroNetStandardApp\\wwwroot\\",
+      "BasePath": "_content/XeroNetStandardApp",
+      "RelativePath": "lib/jquery-validation/dist/additional-methods#[.{fingerprint}]?.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "wus95c49fh",
+      "Integrity": "qLDpf9Urms7R6rnASrjHz38WdQfOvSOmTgLDfzQSzIQ=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Identity": "E:\\xero-intrgration-v2\\XeroNetStandardApp\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "SourceId": "XeroNetStandardApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "E:\\xero-intrgration-v2\\XeroNetStandardApp\\wwwroot\\",
+      "BasePath": "_content/XeroNetStandardApp",
+      "RelativePath": "lib/jquery-validation/dist/additional-methods.min#[.{fingerprint}]?.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "sjab29p8z5",
+      "Integrity": "2F/T6dcoSumcuA/fcU4W36VpSKPtq4nQf/0/vNFsC+w=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Identity": "E:\\xero-intrgration-v2\\XeroNetStandardApp\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "SourceId": "XeroNetStandardApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "E:\\xero-intrgration-v2\\XeroNetStandardApp\\wwwroot\\",
+      "BasePath": "_content/XeroNetStandardApp",
+      "RelativePath": "lib/jquery-validation/dist/jquery.validate#[.{fingerprint}]?.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "d2pxujwhw3",
+      "Integrity": "27gs04nyeNuL9zc/GLQLjdbZqhNGvH+xIYgnYVPIawE=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Identity": "E:\\xero-intrgration-v2\\XeroNetStandardApp\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "SourceId": "XeroNetStandardApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "E:\\xero-intrgration-v2\\XeroNetStandardApp\\wwwroot\\",
+      "BasePath": "_content/XeroNetStandardApp",
+      "RelativePath": "lib/jquery-validation/dist/jquery.validate.min#[.{fingerprint}]?.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "4dm14o4hmc",
+      "Integrity": "eItLFOyfQ4d/OGzEnGchi2ZMVF8EhGgzS0k7fSOPifQ=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Identity": "E:\\xero-intrgration-v2\\XeroNetStandardApp\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "SourceId": "XeroNetStandardApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "E:\\xero-intrgration-v2\\XeroNetStandardApp\\wwwroot\\",
+      "BasePath": "_content/XeroNetStandardApp",
+      "RelativePath": "lib/jquery-validation/LICENSE#[.{fingerprint}]?.md",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "x0q3zqp4vz",
+      "Integrity": "geHEkw/WGPdaHQMRq5HuNY9snliNzU/y2OW8ycnhGXw=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Identity": "E:\\xero-intrgration-v2\\XeroNetStandardApp\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "SourceId": "XeroNetStandardApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "E:\\xero-intrgration-v2\\XeroNetStandardApp\\wwwroot\\",
+      "BasePath": "_content/XeroNetStandardApp",
+      "RelativePath": "lib/jquery/dist/jquery#[.{fingerprint}]?.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "a8eee2794i",
+      "Integrity": "igUc00PXGT1YBL1/Kf7QYy9fPlLqZKcEGrCqDz3EFDI=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Identity": "E:\\xero-intrgration-v2\\XeroNetStandardApp\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "SourceId": "XeroNetStandardApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "E:\\xero-intrgration-v2\\XeroNetStandardApp\\wwwroot\\",
+      "BasePath": "_content/XeroNetStandardApp",
+      "RelativePath": "lib/jquery/dist/jquery.min#[.{fingerprint}]?.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "fc9074g7ds",
+      "Integrity": "T+aPohYXbm0fRYDpJLr+zJ9RmYTswGsahAoIsNiMld4=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Identity": "E:\\xero-intrgration-v2\\XeroNetStandardApp\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "SourceId": "XeroNetStandardApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "E:\\xero-intrgration-v2\\XeroNetStandardApp\\wwwroot\\",
+      "BasePath": "_content/XeroNetStandardApp",
+      "RelativePath": "lib/jquery/dist/jquery.min#[.{fingerprint}]?.map",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "b804xvqo1w",
+      "Integrity": "1eiGMA0y1kD5P/bXnTaiTKk8vtvQ8IC2nXAoI1HJXyE=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Identity": "E:\\xero-intrgration-v2\\XeroNetStandardApp\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "SourceId": "XeroNetStandardApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "E:\\xero-intrgration-v2\\XeroNetStandardApp\\wwwroot\\",
+      "BasePath": "_content/XeroNetStandardApp",
+      "RelativePath": "lib/jquery/LICENSE#[.{fingerprint}]?.txt",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "afgyafcsqt",
+      "Integrity": "WtKlDye/qV68IA2W1tHFTyXyc/HjQvQKBpIK1CEulFM=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\lib\\jquery\\LICENSE.txt"
+    }
+  ],
+  "Endpoints": [
+    {
+      "Route": "css/site.css",
+      "AssetFile": "E:\\xero-intrgration-v2\\XeroNetStandardApp\\wwwroot\\css\\site.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "3081"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"WJYrHb7N4vfwGmXzyMKUbK/WaFm7iu3q2+ruos01WjY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 18 Apr 2025 15:51:16 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-WJYrHb7N4vfwGmXzyMKUbK/WaFm7iu3q2+ruos01WjY="
+        }
+      ]
+    },
+    {
+      "Route": "css/site.wy4upfurer.css",
+      "AssetFile": "E:\\xero-intrgration-v2\\XeroNetStandardApp\\wwwroot\\css\\site.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "3081"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"WJYrHb7N4vfwGmXzyMKUbK/WaFm7iu3q2+ruos01WjY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 18 Apr 2025 15:51:16 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "wy4upfurer"
+        },
+        {
+          "Name": "label",
+          "Value": "css/site.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-WJYrHb7N4vfwGmXzyMKUbK/WaFm7iu3q2+ruos01WjY="
+        }
+      ]
+    },
+    {
+      "Route": "favicon.90yqlj465b.ico",
+      "AssetFile": "E:\\xero-intrgration-v2\\XeroNetStandardApp\\wwwroot\\favicon.ico",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "32038"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/x-icon"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"qU+KhVPK6oQw3UyjzAHU4xjRmCj3TLZUU/+39dni9E0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 18 Apr 2025 15:51:16 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "90yqlj465b"
+        },
+        {
+          "Name": "label",
+          "Value": "favicon.ico"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-qU+KhVPK6oQw3UyjzAHU4xjRmCj3TLZUU/+39dni9E0="
+        }
+      ]
+    },
+    {
+      "Route": "favicon.ico",
+      "AssetFile": "E:\\xero-intrgration-v2\\XeroNetStandardApp\\wwwroot\\favicon.ico",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "32038"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/x-icon"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"qU+KhVPK6oQw3UyjzAHU4xjRmCj3TLZUU/+39dni9E0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 18 Apr 2025 15:51:16 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-qU+KhVPK6oQw3UyjzAHU4xjRmCj3TLZUU/+39dni9E0="
+        }
+      ]
+    },
+    {
+      "Route": "images/connect-white.l90uc7ue0z.svg",
+      "AssetFile": "E:\\xero-intrgration-v2\\XeroNetStandardApp\\wwwroot\\images\\connect-white.svg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "6861"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/svg+xml"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"JztlV+e2ihf7h5PeoyJ8fYZFQxMIPlR/Lt8agIkj11I=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 18 Apr 2025 15:51:16 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "l90uc7ue0z"
+        },
+        {
+          "Name": "label",
+          "Value": "images/connect-white.svg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-JztlV+e2ihf7h5PeoyJ8fYZFQxMIPlR/Lt8agIkj11I="
+        }
+      ]
+    },
+    {
+      "Route": "images/connect-white.svg",
+      "AssetFile": "E:\\xero-intrgration-v2\\XeroNetStandardApp\\wwwroot\\images\\connect-white.svg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "6861"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/svg+xml"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"JztlV+e2ihf7h5PeoyJ8fYZFQxMIPlR/Lt8agIkj11I=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 18 Apr 2025 15:51:16 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-JztlV+e2ihf7h5PeoyJ8fYZFQxMIPlR/Lt8agIkj11I="
+        }
+      ]
+    },
+    {
+      "Route": "images/DELETE.png",
+      "AssetFile": "E:\\xero-intrgration-v2\\XeroNetStandardApp\\wwwroot\\images\\DELETE.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "3986"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Co+gVzMZbkblRjMOUntF3Bk3vgLASyAvHLH1nvCA3Zk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 18 Apr 2025 15:51:16 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-Co+gVzMZbkblRjMOUntF3Bk3vgLASyAvHLH1nvCA3Zk="
+        }
+      ]
+    },
+    {
+      "Route": "images/DELETE.yhnoonxs2g.png",
+      "AssetFile": "E:\\xero-intrgration-v2\\XeroNetStandardApp\\wwwroot\\images\\DELETE.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "3986"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Co+gVzMZbkblRjMOUntF3Bk3vgLASyAvHLH1nvCA3Zk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 18 Apr 2025 15:51:16 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "yhnoonxs2g"
+        },
+        {
+          "Name": "label",
+          "Value": "images/DELETE.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-Co+gVzMZbkblRjMOUntF3Bk3vgLASyAvHLH1nvCA3Zk="
+        }
+      ]
+    },
+    {
+      "Route": "images/disconnect-white.mp6khpglxx.svg",
+      "AssetFile": "E:\\xero-intrgration-v2\\XeroNetStandardApp\\wwwroot\\images\\disconnect-white.svg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "7875"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/svg+xml"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"BqxCmQNS2SrJZ1HenyECw9NnOwwKF2LzdD704XwXsd0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 18 Apr 2025 15:51:16 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "mp6khpglxx"
+        },
+        {
+          "Name": "label",
+          "Value": "images/disconnect-white.svg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-BqxCmQNS2SrJZ1HenyECw9NnOwwKF2LzdD704XwXsd0="
+        }
+      ]
+    },
+    {
+      "Route": "images/disconnect-white.svg",
+      "AssetFile": "E:\\xero-intrgration-v2\\XeroNetStandardApp\\wwwroot\\images\\disconnect-white.svg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "7875"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/svg+xml"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"BqxCmQNS2SrJZ1HenyECw9NnOwwKF2LzdD704XwXsd0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 18 Apr 2025 15:51:16 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-BqxCmQNS2SrJZ1HenyECw9NnOwwKF2LzdD704XwXsd0="
+        }
+      ]
+    },
+    {
+      "Route": "images/GET.6b2s9ep8v6.png",
+      "AssetFile": "E:\\xero-intrgration-v2\\XeroNetStandardApp\\wwwroot\\images\\GET.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "3931"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"sivBd+C75LYRrfxH87VS8u7kunGICCsFAgmhBZexfqY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 18 Apr 2025 15:51:16 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "6b2s9ep8v6"
+        },
+        {
+          "Name": "label",
+          "Value": "images/GET.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-sivBd+C75LYRrfxH87VS8u7kunGICCsFAgmhBZexfqY="
+        }
+      ]
+    },
+    {
+      "Route": "images/GET.png",
+      "AssetFile": "E:\\xero-intrgration-v2\\XeroNetStandardApp\\wwwroot\\images\\GET.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "3931"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"sivBd+C75LYRrfxH87VS8u7kunGICCsFAgmhBZexfqY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 18 Apr 2025 15:51:16 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-sivBd+C75LYRrfxH87VS8u7kunGICCsFAgmhBZexfqY="
+        }
+      ]
+    },
+    {
+      "Route": "images/POST.png",
+      "AssetFile": "E:\\xero-intrgration-v2\\XeroNetStandardApp\\wwwroot\\images\\POST.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "6385"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"qOP0uq9/a1TyAgpcb7GT/AAMbm5lnykTGahiTMLk2v0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 18 Apr 2025 15:51:16 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-qOP0uq9/a1TyAgpcb7GT/AAMbm5lnykTGahiTMLk2v0="
+        }
+      ]
+    },
+    {
+      "Route": "images/POST.snwscf2tsn.png",
+      "AssetFile": "E:\\xero-intrgration-v2\\XeroNetStandardApp\\wwwroot\\images\\POST.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "6385"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"qOP0uq9/a1TyAgpcb7GT/AAMbm5lnykTGahiTMLk2v0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 18 Apr 2025 15:51:16 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "snwscf2tsn"
+        },
+        {
+          "Name": "label",
+          "Value": "images/POST.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-qOP0uq9/a1TyAgpcb7GT/AAMbm5lnykTGahiTMLk2v0="
+        }
+      ]
+    },
+    {
+      "Route": "images/PUT.png",
+      "AssetFile": "E:\\xero-intrgration-v2\\XeroNetStandardApp\\wwwroot\\images\\PUT.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "3530"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"oW7P5QFsRKStdDqW6o0wvIzVsBHhqRM2Swv7G0AKGHU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 18 Apr 2025 15:51:16 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-oW7P5QFsRKStdDqW6o0wvIzVsBHhqRM2Swv7G0AKGHU="
+        }
+      ]
+    },
+    {
+      "Route": "images/PUT.vgcp298wfv.png",
+      "AssetFile": "E:\\xero-intrgration-v2\\XeroNetStandardApp\\wwwroot\\images\\PUT.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "3530"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"oW7P5QFsRKStdDqW6o0wvIzVsBHhqRM2Swv7G0AKGHU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 18 Apr 2025 15:51:16 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "vgcp298wfv"
+        },
+        {
+          "Name": "label",
+          "Value": "images/PUT.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-oW7P5QFsRKStdDqW6o0wvIzVsBHhqRM2Swv7G0AKGHU="
+        }
+      ]
+    },
+    {
+      "Route": "images/xero_logo.iixwvoqxdk.png",
+      "AssetFile": "E:\\xero-intrgration-v2\\XeroNetStandardApp\\wwwroot\\images\\xero_logo.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "17920"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"qjBsk6t53RwMyy/J7RtjzCxvx0hPS2CtOjy4vMLrx6g=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 18 Apr 2025 15:51:16 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "iixwvoqxdk"
+        },
+        {
+          "Name": "label",
+          "Value": "images/xero_logo.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-qjBsk6t53RwMyy/J7RtjzCxvx0hPS2CtOjy4vMLrx6g="
+        }
+      ]
+    },
+    {
+      "Route": "images/xero_logo.png",
+      "AssetFile": "E:\\xero-intrgration-v2\\XeroNetStandardApp\\wwwroot\\images\\xero_logo.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "17920"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"qjBsk6t53RwMyy/J7RtjzCxvx0hPS2CtOjy4vMLrx6g=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 18 Apr 2025 15:51:16 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-qjBsk6t53RwMyy/J7RtjzCxvx0hPS2CtOjy4vMLrx6g="
+        }
+      ]
+    },
+    {
+      "Route": "js/site.hqklnnv386.js",
+      "AssetFile": "E:\\xero-intrgration-v2\\XeroNetStandardApp\\wwwroot\\js\\site.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "3600"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"x8CA3N7pFgf2CbjAe0V48EYlSXVdpC8YTyV6o3DCM7M=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 18 Apr 2025 15:51:16 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "hqklnnv386"
+        },
+        {
+          "Name": "label",
+          "Value": "js/site.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-x8CA3N7pFgf2CbjAe0V48EYlSXVdpC8YTyV6o3DCM7M="
+        }
+      ]
+    },
+    {
+      "Route": "js/site.js",
+      "AssetFile": "E:\\xero-intrgration-v2\\XeroNetStandardApp\\wwwroot\\js\\site.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "3600"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"x8CA3N7pFgf2CbjAe0V48EYlSXVdpC8YTyV6o3DCM7M=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 18 Apr 2025 15:51:16 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-x8CA3N7pFgf2CbjAe0V48EYlSXVdpC8YTyV6o3DCM7M="
+        }
+      ]
+    },
+    {
+      "Route": "lib/bootstrap/dist/css/bootstrap-grid.9n0ta5ieki.css",
+      "AssetFile": "E:\\xero-intrgration-v2\\XeroNetStandardApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "68266"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"ezlzqfTqJZTjEDR18neKc2tUTZtWoz3oQ/ouWY9WmO8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 18 Apr 2025 15:51:16 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "9n0ta5ieki"
+        },
+        {
+          "Name": "label",
+          "Value": "lib/bootstrap/dist/css/bootstrap-grid.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-ezlzqfTqJZTjEDR18neKc2tUTZtWoz3oQ/ouWY9WmO8="
+        }
+      ]
+    },
+    {
+      "Route": "lib/bootstrap/dist/css/bootstrap-grid.css",
+      "AssetFile": "E:\\xero-intrgration-v2\\XeroNetStandardApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "68266"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"ezlzqfTqJZTjEDR18neKc2tUTZtWoz3oQ/ouWY9WmO8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 18 Apr 2025 15:51:16 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-ezlzqfTqJZTjEDR18neKc2tUTZtWoz3oQ/ouWY9WmO8="
+        }
+      ]
+    },
+    {
+      "Route": "lib/bootstrap/dist/css/bootstrap-grid.css.0i1dcxd824.map",
+      "AssetFile": "E:\\xero-intrgration-v2\\XeroNetStandardApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "151749"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/plain"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"2MgjO0zpqYZscatQSGWJ9Io9U8EjvXk0iYygYz1Q+Ms=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 18 Apr 2025 15:51:16 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "0i1dcxd824"
+        },
+        {
+          "Name": "label",
+          "Value": "lib/bootstrap/dist/css/bootstrap-grid.css.map"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-2MgjO0zpqYZscatQSGWJ9Io9U8EjvXk0iYygYz1Q+Ms="
+        }
+      ]
+    },
+    {
+      "Route": "lib/bootstrap/dist/css/bootstrap-grid.css.map",
+      "AssetFile": "E:\\xero-intrgration-v2\\XeroNetStandardApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "151749"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/plain"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"2MgjO0zpqYZscatQSGWJ9Io9U8EjvXk0iYygYz1Q+Ms=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 18 Apr 2025 15:51:16 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-2MgjO0zpqYZscatQSGWJ9Io9U8EjvXk0iYygYz1Q+Ms="
+        }
+      ]
+    },
+    {
+      "Route": "lib/bootstrap/dist/css/bootstrap-grid.min.css",
+      "AssetFile": "E:\\xero-intrgration-v2\\XeroNetStandardApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "48494"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"vdSFRAWr6LTognRmxyi6QlSO5O+MC+VGyMbziTrBmBQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 18 Apr 2025 15:51:16 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-vdSFRAWr6LTognRmxyi6QlSO5O+MC+VGyMbziTrBmBQ="
+        }
+      ]
+    },
+    {
+      "Route": "lib/bootstrap/dist/css/bootstrap-grid.min.css.jzb7jyrjvs.map",
+      "AssetFile": "E:\\xero-intrgration-v2\\XeroNetStandardApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "108539"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/plain"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"kZzlXLpTC0WvL0AL7nXf07BJ28WnY/1H/HrKgS68Q4I=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 18 Apr 2025 15:51:16 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "jzb7jyrjvs"
+        },
+        {
+          "Name": "label",
+          "Value": "lib/bootstrap/dist/css/bootstrap-grid.min.css.map"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-kZzlXLpTC0WvL0AL7nXf07BJ28WnY/1H/HrKgS68Q4I="
+        }
+      ]
+    },
+    {
+      "Route": "lib/bootstrap/dist/css/bootstrap-grid.min.css.map",
+      "AssetFile": "E:\\xero-intrgration-v2\\XeroNetStandardApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "108539"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/plain"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"kZzlXLpTC0WvL0AL7nXf07BJ28WnY/1H/HrKgS68Q4I=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 18 Apr 2025 15:51:16 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-kZzlXLpTC0WvL0AL7nXf07BJ28WnY/1H/HrKgS68Q4I="
+        }
+      ]
+    },
+    {
+      "Route": "lib/bootstrap/dist/css/bootstrap-grid.min.vxs71z90fw.css",
+      "AssetFile": "E:\\xero-intrgration-v2\\XeroNetStandardApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "48494"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"vdSFRAWr6LTognRmxyi6QlSO5O+MC+VGyMbziTrBmBQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 18 Apr 2025 15:51:16 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "vxs71z90fw"
+        },
+        {
+          "Name": "label",
+          "Value": "lib/bootstrap/dist/css/bootstrap-grid.min.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-vdSFRAWr6LTognRmxyi6QlSO5O+MC+VGyMbziTrBmBQ="
+        }
+      ]
+    },
+    {
+      "Route": "lib/bootstrap/dist/css/bootstrap-reboot.css",
+      "AssetFile": "E:\\xero-intrgration-v2\\XeroNetStandardApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "5227"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"cZWhU8ntBevnbhNEh3hunnIoi6dE1eUwX41sB6+bHmo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 18 Apr 2025 15:51:16 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-cZWhU8ntBevnbhNEh3hunnIoi6dE1eUwX41sB6+bHmo="
+        }
+      ]
+    },
+    {
+      "Route": "lib/bootstrap/dist/css/bootstrap-reboot.css.map",
+      "AssetFile": "E:\\xero-intrgration-v2\\XeroNetStandardApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "76483"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/plain"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"3e6awqXPijx918dzyzbbHKwaDBTsIQ8Us38QY30GRms=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 18 Apr 2025 15:51:16 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-3e6awqXPijx918dzyzbbHKwaDBTsIQ8Us38QY30GRms="
+        }
+      ]
+    },
+    {
+      "Route": "lib/bootstrap/dist/css/bootstrap-reboot.css.tgg2bl5mrw.map",
+      "AssetFile": "E:\\xero-intrgration-v2\\XeroNetStandardApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "76483"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/plain"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"3e6awqXPijx918dzyzbbHKwaDBTsIQ8Us38QY30GRms=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 18 Apr 2025 15:51:16 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "tgg2bl5mrw"
+        },
+        {
+          "Name": "label",
+          "Value": "lib/bootstrap/dist/css/bootstrap-reboot.css.map"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-3e6awqXPijx918dzyzbbHKwaDBTsIQ8Us38QY30GRms="
+        }
+      ]
+    },
+    {
+      "Route": "lib/bootstrap/dist/css/bootstrap-reboot.min.brwg1hntyu.css",
+      "AssetFile": "E:\\xero-intrgration-v2\\XeroNetStandardApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "4028"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"1z7sRzwNyqpcTrqPd/iXuzoApqDdjpRbHwjAZ8QMhOk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 18 Apr 2025 15:51:16 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "brwg1hntyu"
+        },
+        {
+          "Name": "label",
+          "Value": "lib/bootstrap/dist/css/bootstrap-reboot.min.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-1z7sRzwNyqpcTrqPd/iXuzoApqDdjpRbHwjAZ8QMhOk="
+        }
+      ]
+    },
+    {
+      "Route": "lib/bootstrap/dist/css/bootstrap-reboot.min.css",
+      "AssetFile": "E:\\xero-intrgration-v2\\XeroNetStandardApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "4028"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"1z7sRzwNyqpcTrqPd/iXuzoApqDdjpRbHwjAZ8QMhOk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 18 Apr 2025 15:51:16 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-1z7sRzwNyqpcTrqPd/iXuzoApqDdjpRbHwjAZ8QMhOk="
+        }
+      ]
+    },
+    {
+      "Route": "lib/bootstrap/dist/css/bootstrap-reboot.min.css.gf2dxac9qe.map",
+      "AssetFile": "E:\\xero-intrgration-v2\\XeroNetStandardApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "32461"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/plain"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"dIm3VZXztwbIlhOzVt+ggg5Dvhp28MJQGJoweOH9cAE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 18 Apr 2025 15:51:16 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "gf2dxac9qe"
+        },
+        {
+          "Name": "label",
+          "Value": "lib/bootstrap/dist/css/bootstrap-reboot.min.css.map"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-dIm3VZXztwbIlhOzVt+ggg5Dvhp28MJQGJoweOH9cAE="
+        }
+      ]
+    },
+    {
+      "Route": "lib/bootstrap/dist/css/bootstrap-reboot.min.css.map",
+      "AssetFile": "E:\\xero-intrgration-v2\\XeroNetStandardApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "32461"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/plain"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"dIm3VZXztwbIlhOzVt+ggg5Dvhp28MJQGJoweOH9cAE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 18 Apr 2025 15:51:16 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-dIm3VZXztwbIlhOzVt+ggg5Dvhp28MJQGJoweOH9cAE="
+        }
+      ]
+    },
+    {
+      "Route": "lib/bootstrap/dist/css/bootstrap-reboot.nynt4yc5xr.css",
+      "AssetFile": "E:\\xero-intrgration-v2\\XeroNetStandardApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "5227"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"cZWhU8ntBevnbhNEh3hunnIoi6dE1eUwX41sB6+bHmo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 18 Apr 2025 15:51:16 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "nynt4yc5xr"
+        },
+        {
+          "Name": "label",
+          "Value": "lib/bootstrap/dist/css/bootstrap-reboot.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-cZWhU8ntBevnbhNEh3hunnIoi6dE1eUwX41sB6+bHmo="
+        }
+      ]
+    },
+    {
+      "Route": "lib/bootstrap/dist/css/bootstrap.css",
+      "AssetFile": "E:\\xero-intrgration-v2\\XeroNetStandardApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "202385"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"eEx7gvq+uEM0o4kUBiy/+Mxl6rHH9NQ9UzRBWHe9mXg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 18 Apr 2025 15:51:16 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-eEx7gvq+uEM0o4kUBiy/+Mxl6rHH9NQ9UzRBWHe9mXg="
+        }
+      ]
+    },
+    {
+      "Route": "lib/bootstrap/dist/css/bootstrap.css.k9n1kkbua6.map",
+      "AssetFile": "E:\\xero-intrgration-v2\\XeroNetStandardApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "492048"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/plain"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"CMAZj3JKoZUVYSxVPS/FeGatmYSvHkujo5oaZLNXx0o=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 18 Apr 2025 15:51:16 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "k9n1kkbua6"
+        },
+        {
+          "Name": "label",
+          "Value": "lib/bootstrap/dist/css/bootstrap.css.map"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-CMAZj3JKoZUVYSxVPS/FeGatmYSvHkujo5oaZLNXx0o="
+        }
+      ]
+    },
+    {
+      "Route": "lib/bootstrap/dist/css/bootstrap.css.map",
+      "AssetFile": "E:\\xero-intrgration-v2\\XeroNetStandardApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "492048"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/plain"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"CMAZj3JKoZUVYSxVPS/FeGatmYSvHkujo5oaZLNXx0o=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 18 Apr 2025 15:51:16 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-CMAZj3JKoZUVYSxVPS/FeGatmYSvHkujo5oaZLNXx0o="
+        }
+      ]
+    },
+    {
+      "Route": "lib/bootstrap/dist/css/bootstrap.gawgt6fljy.css",
+      "AssetFile": "E:\\xero-intrgration-v2\\XeroNetStandardApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "202385"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"eEx7gvq+uEM0o4kUBiy/+Mxl6rHH9NQ9UzRBWHe9mXg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 18 Apr 2025 15:51:16 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "gawgt6fljy"
+        },
+        {
+          "Name": "label",
+          "Value": "lib/bootstrap/dist/css/bootstrap.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-eEx7gvq+uEM0o4kUBiy/+Mxl6rHH9NQ9UzRBWHe9mXg="
+        }
+      ]
+    },
+    {
+      "Route": "lib/bootstrap/dist/css/bootstrap.min.css",
+      "AssetFile": "E:\\xero-intrgration-v2\\XeroNetStandardApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "155764"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"rldnE7wZYJj3Q43t5v8fg1ojKRwyt0Wtfm+224CacZs=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 18 Apr 2025 15:51:16 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-rldnE7wZYJj3Q43t5v8fg1ojKRwyt0Wtfm+224CacZs="
+        }
+      ]
+    },
+    {
+      "Route": "lib/bootstrap/dist/css/bootstrap.min.css.kao5znno1s.map",
+      "AssetFile": "E:\\xero-intrgration-v2\\XeroNetStandardApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "625953"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/plain"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"xMZ0SaSBYZSHVjFdZTAT/IjRExRIxSriWcJLcA9nkj0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 18 Apr 2025 15:51:16 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "kao5znno1s"
+        },
+        {
+          "Name": "label",
+          "Value": "lib/bootstrap/dist/css/bootstrap.min.css.map"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-xMZ0SaSBYZSHVjFdZTAT/IjRExRIxSriWcJLcA9nkj0="
+        }
+      ]
+    },
+    {
+      "Route": "lib/bootstrap/dist/css/bootstrap.min.css.map",
+      "AssetFile": "E:\\xero-intrgration-v2\\XeroNetStandardApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "625953"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/plain"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"xMZ0SaSBYZSHVjFdZTAT/IjRExRIxSriWcJLcA9nkj0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 18 Apr 2025 15:51:16 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-xMZ0SaSBYZSHVjFdZTAT/IjRExRIxSriWcJLcA9nkj0="
+        }
+      ]
+    },
+    {
+      "Route": "lib/bootstrap/dist/css/bootstrap.min.etnb7xlipe.css",
+      "AssetFile": "E:\\xero-intrgration-v2\\XeroNetStandardApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "155764"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"rldnE7wZYJj3Q43t5v8fg1ojKRwyt0Wtfm+224CacZs=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 18 Apr 2025 15:51:16 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "etnb7xlipe"
+        },
+        {
+          "Name": "label",
+          "Value": "lib/bootstrap/dist/css/bootstrap.min.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-rldnE7wZYJj3Q43t5v8fg1ojKRwyt0Wtfm+224CacZs="
+        }
+      ]
+    },
+    {
+      "Route": "lib/bootstrap/dist/js/bootstrap.48vr37mrsy.js",
+      "AssetFile": "E:\\xero-intrgration-v2\\XeroNetStandardApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "136072"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"LKpkBN2w3iudGRseLItcNcaMpI8qlSEUC7+DsnwGNwA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 18 Apr 2025 15:51:16 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "48vr37mrsy"
+        },
+        {
+          "Name": "label",
+          "Value": "lib/bootstrap/dist/js/bootstrap.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-LKpkBN2w3iudGRseLItcNcaMpI8qlSEUC7+DsnwGNwA="
+        }
+      ]
+    },
+    {
+      "Route": "lib/bootstrap/dist/js/bootstrap.bundle.js",
+      "AssetFile": "E:\\xero-intrgration-v2\\XeroNetStandardApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "229924"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"srIwGYgANrjaabGVuC3G7O0jv1Xh3Kt7dIc3/P0Ebf0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 18 Apr 2025 15:51:16 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-srIwGYgANrjaabGVuC3G7O0jv1Xh3Kt7dIc3/P0Ebf0="
+        }
+      ]
+    },
+    {
+      "Route": "lib/bootstrap/dist/js/bootstrap.bundle.js.map",
+      "AssetFile": "E:\\xero-intrgration-v2\\XeroNetStandardApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "402249"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/plain"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"3UpdqvoTc6M2sug8WtFhr/m3tg+4zLMgoMgjqpn5n1I=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 18 Apr 2025 15:51:16 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-3UpdqvoTc6M2sug8WtFhr/m3tg+4zLMgoMgjqpn5n1I="
+        }
+      ]
+    },
+    {
+      "Route": "lib/bootstrap/dist/js/bootstrap.bundle.js.pxamm17y9e.map",
+      "AssetFile": "E:\\xero-intrgration-v2\\XeroNetStandardApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "402249"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/plain"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"3UpdqvoTc6M2sug8WtFhr/m3tg+4zLMgoMgjqpn5n1I=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 18 Apr 2025 15:51:16 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "pxamm17y9e"
+        },
+        {
+          "Name": "label",
+          "Value": "lib/bootstrap/dist/js/bootstrap.bundle.js.map"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-3UpdqvoTc6M2sug8WtFhr/m3tg+4zLMgoMgjqpn5n1I="
+        }
+      ]
+    },
+    {
+      "Route": "lib/bootstrap/dist/js/bootstrap.bundle.min.hjuzisly30.js",
+      "AssetFile": "E:\\xero-intrgration-v2\\XeroNetStandardApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "78641"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"XZfkOGd6FuhF88h5GgEmRIpXbm+hBkFo74yYDPY5rbw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 18 Apr 2025 15:51:16 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "hjuzisly30"
+        },
+        {
+          "Name": "label",
+          "Value": "lib/bootstrap/dist/js/bootstrap.bundle.min.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-XZfkOGd6FuhF88h5GgEmRIpXbm+hBkFo74yYDPY5rbw="
+        }
+      ]
+    },
+    {
+      "Route": "lib/bootstrap/dist/js/bootstrap.bundle.min.js",
+      "AssetFile": "E:\\xero-intrgration-v2\\XeroNetStandardApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "78641"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"XZfkOGd6FuhF88h5GgEmRIpXbm+hBkFo74yYDPY5rbw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 18 Apr 2025 15:51:16 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-XZfkOGd6FuhF88h5GgEmRIpXbm+hBkFo74yYDPY5rbw="
+        }
+      ]
+    },
+    {
+      "Route": "lib/bootstrap/dist/js/bootstrap.bundle.min.js.map",
+      "AssetFile": "E:\\xero-intrgration-v2\\XeroNetStandardApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "311949"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/plain"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"8i3JQdKYQQcJzmbkwhwY+1XPe7Utf1LdBnYZCvNmKWc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 18 Apr 2025 15:51:16 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-8i3JQdKYQQcJzmbkwhwY+1XPe7Utf1LdBnYZCvNmKWc="
+        }
+      ]
+    },
+    {
+      "Route": "lib/bootstrap/dist/js/bootstrap.bundle.min.js.u9xms436mi.map",
+      "AssetFile": "E:\\xero-intrgration-v2\\XeroNetStandardApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "311949"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/plain"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"8i3JQdKYQQcJzmbkwhwY+1XPe7Utf1LdBnYZCvNmKWc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 18 Apr 2025 15:51:16 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "u9xms436mi"
+        },
+        {
+          "Name": "label",
+          "Value": "lib/bootstrap/dist/js/bootstrap.bundle.min.js.map"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-8i3JQdKYQQcJzmbkwhwY+1XPe7Utf1LdBnYZCvNmKWc="
+        }
+      ]
+    },
+    {
+      "Route": "lib/bootstrap/dist/js/bootstrap.bundle.u0biprgly9.js",
+      "AssetFile": "E:\\xero-intrgration-v2\\XeroNetStandardApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "229924"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"srIwGYgANrjaabGVuC3G7O0jv1Xh3Kt7dIc3/P0Ebf0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 18 Apr 2025 15:51:16 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "u0biprgly9"
+        },
+        {
+          "Name": "label",
+          "Value": "lib/bootstrap/dist/js/bootstrap.bundle.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-srIwGYgANrjaabGVuC3G7O0jv1Xh3Kt7dIc3/P0Ebf0="
+        }
+      ]
+    },
+    {
+      "Route": "lib/bootstrap/dist/js/bootstrap.js",
+      "AssetFile": "E:\\xero-intrgration-v2\\XeroNetStandardApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "136072"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"LKpkBN2w3iudGRseLItcNcaMpI8qlSEUC7+DsnwGNwA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 18 Apr 2025 15:51:16 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-LKpkBN2w3iudGRseLItcNcaMpI8qlSEUC7+DsnwGNwA="
+        }
+      ]
+    },
+    {
+      "Route": "lib/bootstrap/dist/js/bootstrap.js.map",
+      "AssetFile": "E:\\xero-intrgration-v2\\XeroNetStandardApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "250568"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/plain"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"R81NA2DWe8EPjZ2OUhieXYgvvXBnm78oMdeqOtSEr7c=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 18 Apr 2025 15:51:16 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-R81NA2DWe8EPjZ2OUhieXYgvvXBnm78oMdeqOtSEr7c="
+        }
+      ]
+    },
+    {
+      "Route": "lib/bootstrap/dist/js/bootstrap.js.vaswmcjbo4.map",
+      "AssetFile": "E:\\xero-intrgration-v2\\XeroNetStandardApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "250568"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/plain"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"R81NA2DWe8EPjZ2OUhieXYgvvXBnm78oMdeqOtSEr7c=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 18 Apr 2025 15:51:16 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "vaswmcjbo4"
+        },
+        {
+          "Name": "label",
+          "Value": "lib/bootstrap/dist/js/bootstrap.js.map"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-R81NA2DWe8EPjZ2OUhieXYgvvXBnm78oMdeqOtSEr7c="
+        }
+      ]
+    },
+    {
+      "Route": "lib/bootstrap/dist/js/bootstrap.min.js",
+      "AssetFile": "E:\\xero-intrgration-v2\\XeroNetStandardApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "58078"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"O82ALp93hJ58HpPIcnn7uwTUWUnSvnmwNWbOrN4psVg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 18 Apr 2025 15:51:16 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-O82ALp93hJ58HpPIcnn7uwTUWUnSvnmwNWbOrN4psVg="
+        }
+      ]
+    },
+    {
+      "Route": "lib/bootstrap/dist/js/bootstrap.min.js.map",
+      "AssetFile": "E:\\xero-intrgration-v2\\XeroNetStandardApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "190253"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/plain"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"vMfBbEXmojM9AaHrIyKSo+20n5JM7KMyJkBCfL4pgL4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 18 Apr 2025 15:51:16 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-vMfBbEXmojM9AaHrIyKSo+20n5JM7KMyJkBCfL4pgL4="
+        }
+      ]
+    },
+    {
+      "Route": "lib/bootstrap/dist/js/bootstrap.min.js.sgi57dik4g.map",
+      "AssetFile": "E:\\xero-intrgration-v2\\XeroNetStandardApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "190253"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/plain"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"vMfBbEXmojM9AaHrIyKSo+20n5JM7KMyJkBCfL4pgL4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 18 Apr 2025 15:51:16 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "sgi57dik4g"
+        },
+        {
+          "Name": "label",
+          "Value": "lib/bootstrap/dist/js/bootstrap.min.js.map"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-vMfBbEXmojM9AaHrIyKSo+20n5JM7KMyJkBCfL4pgL4="
+        }
+      ]
+    },
+    {
+      "Route": "lib/bootstrap/dist/js/bootstrap.min.zu238p5lxg.js",
+      "AssetFile": "E:\\xero-intrgration-v2\\XeroNetStandardApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "58078"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"O82ALp93hJ58HpPIcnn7uwTUWUnSvnmwNWbOrN4psVg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 18 Apr 2025 15:51:16 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "zu238p5lxg"
+        },
+        {
+          "Name": "label",
+          "Value": "lib/bootstrap/dist/js/bootstrap.min.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-O82ALp93hJ58HpPIcnn7uwTUWUnSvnmwNWbOrN4psVg="
+        }
+      ]
+    },
+    {
+      "Route": "lib/bootstrap/LICENSE",
+      "AssetFile": "E:\\xero-intrgration-v2\\XeroNetStandardApp\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1153"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/octet-stream"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"iMA3h2QDzhvwmVtohviPpq8VwRv3UMY/PEE+ao7bBq0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 18 Apr 2025 15:51:16 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-iMA3h2QDzhvwmVtohviPpq8VwRv3UMY/PEE+ao7bBq0="
+        }
+      ]
+    },
+    {
+      "Route": "lib/bootstrap/LICENSE.weyt030wr8",
+      "AssetFile": "E:\\xero-intrgration-v2\\XeroNetStandardApp\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1153"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/octet-stream"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"iMA3h2QDzhvwmVtohviPpq8VwRv3UMY/PEE+ao7bBq0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 18 Apr 2025 15:51:16 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "weyt030wr8"
+        },
+        {
+          "Name": "label",
+          "Value": "lib/bootstrap/LICENSE"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-iMA3h2QDzhvwmVtohviPpq8VwRv3UMY/PEE+ao7bBq0="
+        }
+      ]
+    },
+    {
+      "Route": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.dvc2bfcndg.js",
+      "AssetFile": "E:\\xero-intrgration-v2\\XeroNetStandardApp\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "19798"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"qbS02vMHZxdLNYKUtLPSYaSHXj1/ZwH1fv9f3XAY0LU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 18 Apr 2025 15:51:16 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "dvc2bfcndg"
+        },
+        {
+          "Name": "label",
+          "Value": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-qbS02vMHZxdLNYKUtLPSYaSHXj1/ZwH1fv9f3XAY0LU="
+        }
+      ]
+    },
+    {
+      "Route": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js",
+      "AssetFile": "E:\\xero-intrgration-v2\\XeroNetStandardApp\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "19798"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"qbS02vMHZxdLNYKUtLPSYaSHXj1/ZwH1fv9f3XAY0LU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 18 Apr 2025 15:51:16 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-qbS02vMHZxdLNYKUtLPSYaSHXj1/ZwH1fv9f3XAY0LU="
+        }
+      ]
+    },
+    {
+      "Route": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.gb7ocvbhts.js",
+      "AssetFile": "E:\\xero-intrgration-v2\\XeroNetStandardApp\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "5871"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"9GycpJnliUjJDVDqP0UEu/bsm9U+3dnQUH8+3W10vkY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 18 Apr 2025 15:51:16 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "gb7ocvbhts"
+        },
+        {
+          "Name": "label",
+          "Value": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-9GycpJnliUjJDVDqP0UEu/bsm9U+3dnQUH8+3W10vkY="
+        }
+      ]
+    },
+    {
+      "Route": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js",
+      "AssetFile": "E:\\xero-intrgration-v2\\XeroNetStandardApp\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "5871"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"9GycpJnliUjJDVDqP0UEu/bsm9U+3dnQUH8+3W10vkY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 18 Apr 2025 15:51:16 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-9GycpJnliUjJDVDqP0UEu/bsm9U+3dnQUH8+3W10vkY="
+        }
+      ]
+    },
+    {
+      "Route": "lib/jquery-validation-unobtrusive/LICENSE.txt",
+      "AssetFile": "E:\\xero-intrgration-v2\\XeroNetStandardApp\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "587"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/plain"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"aBc/n/nO9esvq0e80G57lEYLonvE5dKKUgoozaiVfLM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 18 Apr 2025 15:51:16 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-aBc/n/nO9esvq0e80G57lEYLonvE5dKKUgoozaiVfLM="
+        }
+      ]
+    },
+    {
+      "Route": "lib/jquery-validation-unobtrusive/LICENSE.wqejeusuyq.txt",
+      "AssetFile": "E:\\xero-intrgration-v2\\XeroNetStandardApp\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "587"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/plain"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"aBc/n/nO9esvq0e80G57lEYLonvE5dKKUgoozaiVfLM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 18 Apr 2025 15:51:16 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "wqejeusuyq"
+        },
+        {
+          "Name": "label",
+          "Value": "lib/jquery-validation-unobtrusive/LICENSE.txt"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-aBc/n/nO9esvq0e80G57lEYLonvE5dKKUgoozaiVfLM="
+        }
+      ]
+    },
+    {
+      "Route": "lib/jquery-validation/dist/additional-methods.js",
+      "AssetFile": "E:\\xero-intrgration-v2\\XeroNetStandardApp\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "43184"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"qLDpf9Urms7R6rnASrjHz38WdQfOvSOmTgLDfzQSzIQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 18 Apr 2025 15:51:16 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-qLDpf9Urms7R6rnASrjHz38WdQfOvSOmTgLDfzQSzIQ="
+        }
+      ]
+    },
+    {
+      "Route": "lib/jquery-validation/dist/additional-methods.min.js",
+      "AssetFile": "E:\\xero-intrgration-v2\\XeroNetStandardApp\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "18467"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"2F/T6dcoSumcuA/fcU4W36VpSKPtq4nQf/0/vNFsC+w=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 18 Apr 2025 15:51:16 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-2F/T6dcoSumcuA/fcU4W36VpSKPtq4nQf/0/vNFsC+w="
+        }
+      ]
+    },
+    {
+      "Route": "lib/jquery-validation/dist/additional-methods.min.sjab29p8z5.js",
+      "AssetFile": "E:\\xero-intrgration-v2\\XeroNetStandardApp\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "18467"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"2F/T6dcoSumcuA/fcU4W36VpSKPtq4nQf/0/vNFsC+w=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 18 Apr 2025 15:51:16 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "sjab29p8z5"
+        },
+        {
+          "Name": "label",
+          "Value": "lib/jquery-validation/dist/additional-methods.min.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-2F/T6dcoSumcuA/fcU4W36VpSKPtq4nQf/0/vNFsC+w="
+        }
+      ]
+    },
+    {
+      "Route": "lib/jquery-validation/dist/additional-methods.wus95c49fh.js",
+      "AssetFile": "E:\\xero-intrgration-v2\\XeroNetStandardApp\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "43184"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"qLDpf9Urms7R6rnASrjHz38WdQfOvSOmTgLDfzQSzIQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 18 Apr 2025 15:51:16 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "wus95c49fh"
+        },
+        {
+          "Name": "label",
+          "Value": "lib/jquery-validation/dist/additional-methods.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-qLDpf9Urms7R6rnASrjHz38WdQfOvSOmTgLDfzQSzIQ="
+        }
+      ]
+    },
+    {
+      "Route": "lib/jquery-validation/dist/jquery.validate.d2pxujwhw3.js",
+      "AssetFile": "E:\\xero-intrgration-v2\\XeroNetStandardApp\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "50276"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"27gs04nyeNuL9zc/GLQLjdbZqhNGvH+xIYgnYVPIawE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 18 Apr 2025 15:51:16 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "d2pxujwhw3"
+        },
+        {
+          "Name": "label",
+          "Value": "lib/jquery-validation/dist/jquery.validate.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-27gs04nyeNuL9zc/GLQLjdbZqhNGvH+xIYgnYVPIawE="
+        }
+      ]
+    },
+    {
+      "Route": "lib/jquery-validation/dist/jquery.validate.js",
+      "AssetFile": "E:\\xero-intrgration-v2\\XeroNetStandardApp\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "50276"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"27gs04nyeNuL9zc/GLQLjdbZqhNGvH+xIYgnYVPIawE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 18 Apr 2025 15:51:16 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-27gs04nyeNuL9zc/GLQLjdbZqhNGvH+xIYgnYVPIawE="
+        }
+      ]
+    },
+    {
+      "Route": "lib/jquery-validation/dist/jquery.validate.min.4dm14o4hmc.js",
+      "AssetFile": "E:\\xero-intrgration-v2\\XeroNetStandardApp\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "23264"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"eItLFOyfQ4d/OGzEnGchi2ZMVF8EhGgzS0k7fSOPifQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 18 Apr 2025 15:51:16 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "4dm14o4hmc"
+        },
+        {
+          "Name": "label",
+          "Value": "lib/jquery-validation/dist/jquery.validate.min.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-eItLFOyfQ4d/OGzEnGchi2ZMVF8EhGgzS0k7fSOPifQ="
+        }
+      ]
+    },
+    {
+      "Route": "lib/jquery-validation/dist/jquery.validate.min.js",
+      "AssetFile": "E:\\xero-intrgration-v2\\XeroNetStandardApp\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "23264"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"eItLFOyfQ4d/OGzEnGchi2ZMVF8EhGgzS0k7fSOPifQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 18 Apr 2025 15:51:16 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-eItLFOyfQ4d/OGzEnGchi2ZMVF8EhGgzS0k7fSOPifQ="
+        }
+      ]
+    },
+    {
+      "Route": "lib/jquery-validation/LICENSE.md",
+      "AssetFile": "E:\\xero-intrgration-v2\\XeroNetStandardApp\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1117"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/markdown"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"geHEkw/WGPdaHQMRq5HuNY9snliNzU/y2OW8ycnhGXw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 18 Apr 2025 15:51:16 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-geHEkw/WGPdaHQMRq5HuNY9snliNzU/y2OW8ycnhGXw="
+        }
+      ]
+    },
+    {
+      "Route": "lib/jquery-validation/LICENSE.x0q3zqp4vz.md",
+      "AssetFile": "E:\\xero-intrgration-v2\\XeroNetStandardApp\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1117"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/markdown"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"geHEkw/WGPdaHQMRq5HuNY9snliNzU/y2OW8ycnhGXw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 18 Apr 2025 15:51:16 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "x0q3zqp4vz"
+        },
+        {
+          "Name": "label",
+          "Value": "lib/jquery-validation/LICENSE.md"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-geHEkw/WGPdaHQMRq5HuNY9snliNzU/y2OW8ycnhGXw="
+        }
+      ]
+    },
+    {
+      "Route": "lib/jquery/dist/jquery.a8eee2794i.js",
+      "AssetFile": "E:\\xero-intrgration-v2\\XeroNetStandardApp\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "282115"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"igUc00PXGT1YBL1/Kf7QYy9fPlLqZKcEGrCqDz3EFDI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 18 Apr 2025 15:51:16 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "a8eee2794i"
+        },
+        {
+          "Name": "label",
+          "Value": "lib/jquery/dist/jquery.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-igUc00PXGT1YBL1/Kf7QYy9fPlLqZKcEGrCqDz3EFDI="
+        }
+      ]
+    },
+    {
+      "Route": "lib/jquery/dist/jquery.js",
+      "AssetFile": "E:\\xero-intrgration-v2\\XeroNetStandardApp\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "282115"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"igUc00PXGT1YBL1/Kf7QYy9fPlLqZKcEGrCqDz3EFDI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 18 Apr 2025 15:51:16 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-igUc00PXGT1YBL1/Kf7QYy9fPlLqZKcEGrCqDz3EFDI="
+        }
+      ]
+    },
+    {
+      "Route": "lib/jquery/dist/jquery.min.b804xvqo1w.map",
+      "AssetFile": "E:\\xero-intrgration-v2\\XeroNetStandardApp\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "132370"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/plain"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"1eiGMA0y1kD5P/bXnTaiTKk8vtvQ8IC2nXAoI1HJXyE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 18 Apr 2025 15:51:16 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "b804xvqo1w"
+        },
+        {
+          "Name": "label",
+          "Value": "lib/jquery/dist/jquery.min.map"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-1eiGMA0y1kD5P/bXnTaiTKk8vtvQ8IC2nXAoI1HJXyE="
+        }
+      ]
+    },
+    {
+      "Route": "lib/jquery/dist/jquery.min.fc9074g7ds.js",
+      "AssetFile": "E:\\xero-intrgration-v2\\XeroNetStandardApp\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "86929"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"T+aPohYXbm0fRYDpJLr+zJ9RmYTswGsahAoIsNiMld4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 18 Apr 2025 15:51:16 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "fc9074g7ds"
+        },
+        {
+          "Name": "label",
+          "Value": "lib/jquery/dist/jquery.min.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-T+aPohYXbm0fRYDpJLr+zJ9RmYTswGsahAoIsNiMld4="
+        }
+      ]
+    },
+    {
+      "Route": "lib/jquery/dist/jquery.min.js",
+      "AssetFile": "E:\\xero-intrgration-v2\\XeroNetStandardApp\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "86929"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"T+aPohYXbm0fRYDpJLr+zJ9RmYTswGsahAoIsNiMld4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 18 Apr 2025 15:51:16 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-T+aPohYXbm0fRYDpJLr+zJ9RmYTswGsahAoIsNiMld4="
+        }
+      ]
+    },
+    {
+      "Route": "lib/jquery/dist/jquery.min.map",
+      "AssetFile": "E:\\xero-intrgration-v2\\XeroNetStandardApp\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "132370"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/plain"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"1eiGMA0y1kD5P/bXnTaiTKk8vtvQ8IC2nXAoI1HJXyE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 18 Apr 2025 15:51:16 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-1eiGMA0y1kD5P/bXnTaiTKk8vtvQ8IC2nXAoI1HJXyE="
+        }
+      ]
+    },
+    {
+      "Route": "lib/jquery/LICENSE.afgyafcsqt.txt",
+      "AssetFile": "E:\\xero-intrgration-v2\\XeroNetStandardApp\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1641"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/plain"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"WtKlDye/qV68IA2W1tHFTyXyc/HjQvQKBpIK1CEulFM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 18 Apr 2025 15:51:16 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "afgyafcsqt"
+        },
+        {
+          "Name": "label",
+          "Value": "lib/jquery/LICENSE.txt"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-WtKlDye/qV68IA2W1tHFTyXyc/HjQvQKBpIK1CEulFM="
+        }
+      ]
+    },
+    {
+      "Route": "lib/jquery/LICENSE.txt",
+      "AssetFile": "E:\\xero-intrgration-v2\\XeroNetStandardApp\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1641"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/plain"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"WtKlDye/qV68IA2W1tHFTyXyc/HjQvQKBpIK1CEulFM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 18 Apr 2025 15:51:16 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-WtKlDye/qV68IA2W1tHFTyXyc/HjQvQKBpIK1CEulFM="
+        }
+      ]
+    }
+  ]
+}

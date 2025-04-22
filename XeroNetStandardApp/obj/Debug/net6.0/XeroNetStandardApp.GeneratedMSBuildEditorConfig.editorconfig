@@ -1,0 +1,105 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = XeroNetStandardApp
+build_property.RootNamespace = XeroNetStandardApp
+build_property.ProjectDir = E:\xero-intrgration-v2\XeroNetStandardApp\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = E:\xero-intrgration-v2\XeroNetStandardApp
+build_property._RazorSourceGeneratorDebug = 
+build_property.EffectiveAnalysisLevelStyle = 6.0
+build_property.EnableCodeStyleSeverity = 
+
+[E:/xero-intrgration-v2/XeroNetStandardApp/Views/ContactsInfo/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29udGFjdHNJbmZvXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/xero-intrgration-v2/XeroNetStandardApp/Views/ContactsInfo/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29udGFjdHNJbmZvXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/xero-intrgration-v2/XeroNetStandardApp/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/xero-intrgration-v2/XeroNetStandardApp/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/xero-intrgration-v2/XeroNetStandardApp/Views/IdentityInfo/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSWRlbnRpdHlJbmZvXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/xero-intrgration-v2/XeroNetStandardApp/Views/ProjectInfo/CreateProject.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvamVjdEluZm9cQ3JlYXRlUHJvamVjdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/xero-intrgration-v2/XeroNetStandardApp/Views/ProjectInfo/GetProjects.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvamVjdEluZm9cR2V0UHJvamVjdHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/xero-intrgration-v2/XeroNetStandardApp/Views/ProjectInfo/UpdateProject.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvamVjdEluZm9cVXBkYXRlUHJvamVjdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/xero-intrgration-v2/XeroNetStandardApp/Views/ProjectTask/CreateTask.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvamVjdFRhc2tcQ3JlYXRlVGFzay5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/xero-intrgration-v2/XeroNetStandardApp/Views/ProjectTask/GetTasks.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvamVjdFRhc2tcR2V0VGFza3MuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/xero-intrgration-v2/XeroNetStandardApp/Views/ProjectTask/UpdateTask.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvamVjdFRhc2tcVXBkYXRlVGFzay5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/xero-intrgration-v2/XeroNetStandardApp/Views/ProjectTimeEntries/CreateTimeEntry.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvamVjdFRpbWVFbnRyaWVzXENyZWF0ZVRpbWVFbnRyeS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/xero-intrgration-v2/XeroNetStandardApp/Views/ProjectTimeEntries/GetTimeEntries.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvamVjdFRpbWVFbnRyaWVzXEdldFRpbWVFbnRyaWVzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/xero-intrgration-v2/XeroNetStandardApp/Views/ProjectTimeEntries/UpdateTimeEntry.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvamVjdFRpbWVFbnRyaWVzXFVwZGF0ZVRpbWVFbnRyeS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/xero-intrgration-v2/XeroNetStandardApp/Views/Shared/Components/NavBar/Default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcTmF2QmFyXERlZmF1bHQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/xero-intrgration-v2/XeroNetStandardApp/Views/Shared/Components/SideBar/Default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcU2lkZUJhclxEZWZhdWx0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/xero-intrgration-v2/XeroNetStandardApp/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/xero-intrgration-v2/XeroNetStandardApp/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/xero-intrgration-v2/XeroNetStandardApp/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/xero-intrgration-v2/XeroNetStandardApp/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/xero-intrgration-v2/XeroNetStandardApp/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 

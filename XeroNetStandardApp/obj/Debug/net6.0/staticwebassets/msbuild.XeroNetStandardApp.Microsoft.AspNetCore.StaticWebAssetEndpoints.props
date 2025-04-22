@@ -1,0 +1,520 @@
+﻿<Project>
+  <ItemGroup>
+    <StaticWebAssetEndpoint Include="_content/XeroNetStandardApp/css/site.css">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\css\site.css'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-WJYrHb7N4vfwGmXzyMKUbK/WaFm7iu3q2\u002Bruos01WjY="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"3081"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022WJYrHb7N4vfwGmXzyMKUbK/WaFm7iu3q2\u002Bruos01WjY=\u0022"},{"Name":"Last-Modified","Value":"Fri, 18 Apr 2025 15:51:16 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/XeroNetStandardApp/css/site.wy4upfurer.css">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\css\site.css'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"wy4upfurer"},{"Name":"integrity","Value":"sha256-WJYrHb7N4vfwGmXzyMKUbK/WaFm7iu3q2\u002Bruos01WjY="},{"Name":"label","Value":"_content/XeroNetStandardApp/css/site.css"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"3081"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022WJYrHb7N4vfwGmXzyMKUbK/WaFm7iu3q2\u002Bruos01WjY=\u0022"},{"Name":"Last-Modified","Value":"Fri, 18 Apr 2025 15:51:16 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/XeroNetStandardApp/favicon.90yqlj465b.ico">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\favicon.ico'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"90yqlj465b"},{"Name":"integrity","Value":"sha256-qU\u002BKhVPK6oQw3UyjzAHU4xjRmCj3TLZUU/\u002B39dni9E0="},{"Name":"label","Value":"_content/XeroNetStandardApp/favicon.ico"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"32038"},{"Name":"Content-Type","Value":"image/x-icon"},{"Name":"ETag","Value":"\u0022qU\u002BKhVPK6oQw3UyjzAHU4xjRmCj3TLZUU/\u002B39dni9E0=\u0022"},{"Name":"Last-Modified","Value":"Fri, 18 Apr 2025 15:51:16 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/XeroNetStandardApp/favicon.ico">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\favicon.ico'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-qU\u002BKhVPK6oQw3UyjzAHU4xjRmCj3TLZUU/\u002B39dni9E0="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"32038"},{"Name":"Content-Type","Value":"image/x-icon"},{"Name":"ETag","Value":"\u0022qU\u002BKhVPK6oQw3UyjzAHU4xjRmCj3TLZUU/\u002B39dni9E0=\u0022"},{"Name":"Last-Modified","Value":"Fri, 18 Apr 2025 15:51:16 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/XeroNetStandardApp/images/connect-white.l90uc7ue0z.svg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\connect-white.svg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"l90uc7ue0z"},{"Name":"integrity","Value":"sha256-JztlV\u002Be2ihf7h5PeoyJ8fYZFQxMIPlR/Lt8agIkj11I="},{"Name":"label","Value":"_content/XeroNetStandardApp/images/connect-white.svg"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"6861"},{"Name":"Content-Type","Value":"image/svg\u002Bxml"},{"Name":"ETag","Value":"\u0022JztlV\u002Be2ihf7h5PeoyJ8fYZFQxMIPlR/Lt8agIkj11I=\u0022"},{"Name":"Last-Modified","Value":"Fri, 18 Apr 2025 15:51:16 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/XeroNetStandardApp/images/connect-white.svg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\connect-white.svg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-JztlV\u002Be2ihf7h5PeoyJ8fYZFQxMIPlR/Lt8agIkj11I="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"6861"},{"Name":"Content-Type","Value":"image/svg\u002Bxml"},{"Name":"ETag","Value":"\u0022JztlV\u002Be2ihf7h5PeoyJ8fYZFQxMIPlR/Lt8agIkj11I=\u0022"},{"Name":"Last-Modified","Value":"Fri, 18 Apr 2025 15:51:16 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/XeroNetStandardApp/images/DELETE.png">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\DELETE.png'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-Co\u002BgVzMZbkblRjMOUntF3Bk3vgLASyAvHLH1nvCA3Zk="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"3986"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u0022Co\u002BgVzMZbkblRjMOUntF3Bk3vgLASyAvHLH1nvCA3Zk=\u0022"},{"Name":"Last-Modified","Value":"Fri, 18 Apr 2025 15:51:16 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/XeroNetStandardApp/images/DELETE.yhnoonxs2g.png">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\DELETE.png'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"yhnoonxs2g"},{"Name":"integrity","Value":"sha256-Co\u002BgVzMZbkblRjMOUntF3Bk3vgLASyAvHLH1nvCA3Zk="},{"Name":"label","Value":"_content/XeroNetStandardApp/images/DELETE.png"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"3986"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u0022Co\u002BgVzMZbkblRjMOUntF3Bk3vgLASyAvHLH1nvCA3Zk=\u0022"},{"Name":"Last-Modified","Value":"Fri, 18 Apr 2025 15:51:16 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/XeroNetStandardApp/images/disconnect-white.mp6khpglxx.svg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\disconnect-white.svg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"mp6khpglxx"},{"Name":"integrity","Value":"sha256-BqxCmQNS2SrJZ1HenyECw9NnOwwKF2LzdD704XwXsd0="},{"Name":"label","Value":"_content/XeroNetStandardApp/images/disconnect-white.svg"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"7875"},{"Name":"Content-Type","Value":"image/svg\u002Bxml"},{"Name":"ETag","Value":"\u0022BqxCmQNS2SrJZ1HenyECw9NnOwwKF2LzdD704XwXsd0=\u0022"},{"Name":"Last-Modified","Value":"Fri, 18 Apr 2025 15:51:16 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/XeroNetStandardApp/images/disconnect-white.svg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\disconnect-white.svg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-BqxCmQNS2SrJZ1HenyECw9NnOwwKF2LzdD704XwXsd0="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"7875"},{"Name":"Content-Type","Value":"image/svg\u002Bxml"},{"Name":"ETag","Value":"\u0022BqxCmQNS2SrJZ1HenyECw9NnOwwKF2LzdD704XwXsd0=\u0022"},{"Name":"Last-Modified","Value":"Fri, 18 Apr 2025 15:51:16 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/XeroNetStandardApp/images/GET.6b2s9ep8v6.png">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\GET.png'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"6b2s9ep8v6"},{"Name":"integrity","Value":"sha256-sivBd\u002BC75LYRrfxH87VS8u7kunGICCsFAgmhBZexfqY="},{"Name":"label","Value":"_content/XeroNetStandardApp/images/GET.png"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"3931"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u0022sivBd\u002BC75LYRrfxH87VS8u7kunGICCsFAgmhBZexfqY=\u0022"},{"Name":"Last-Modified","Value":"Fri, 18 Apr 2025 15:51:16 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/XeroNetStandardApp/images/GET.png">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\GET.png'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-sivBd\u002BC75LYRrfxH87VS8u7kunGICCsFAgmhBZexfqY="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"3931"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u0022sivBd\u002BC75LYRrfxH87VS8u7kunGICCsFAgmhBZexfqY=\u0022"},{"Name":"Last-Modified","Value":"Fri, 18 Apr 2025 15:51:16 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/XeroNetStandardApp/images/POST.png">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\POST.png'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-qOP0uq9/a1TyAgpcb7GT/AAMbm5lnykTGahiTMLk2v0="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"6385"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u0022qOP0uq9/a1TyAgpcb7GT/AAMbm5lnykTGahiTMLk2v0=\u0022"},{"Name":"Last-Modified","Value":"Fri, 18 Apr 2025 15:51:16 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/XeroNetStandardApp/images/POST.snwscf2tsn.png">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\POST.png'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"snwscf2tsn"},{"Name":"integrity","Value":"sha256-qOP0uq9/a1TyAgpcb7GT/AAMbm5lnykTGahiTMLk2v0="},{"Name":"label","Value":"_content/XeroNetStandardApp/images/POST.png"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"6385"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u0022qOP0uq9/a1TyAgpcb7GT/AAMbm5lnykTGahiTMLk2v0=\u0022"},{"Name":"Last-Modified","Value":"Fri, 18 Apr 2025 15:51:16 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/XeroNetStandardApp/images/PUT.png">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\PUT.png'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-oW7P5QFsRKStdDqW6o0wvIzVsBHhqRM2Swv7G0AKGHU="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"3530"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u0022oW7P5QFsRKStdDqW6o0wvIzVsBHhqRM2Swv7G0AKGHU=\u0022"},{"Name":"Last-Modified","Value":"Fri, 18 Apr 2025 15:51:16 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/XeroNetStandardApp/images/PUT.vgcp298wfv.png">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\PUT.png'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"vgcp298wfv"},{"Name":"integrity","Value":"sha256-oW7P5QFsRKStdDqW6o0wvIzVsBHhqRM2Swv7G0AKGHU="},{"Name":"label","Value":"_content/XeroNetStandardApp/images/PUT.png"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"3530"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u0022oW7P5QFsRKStdDqW6o0wvIzVsBHhqRM2Swv7G0AKGHU=\u0022"},{"Name":"Last-Modified","Value":"Fri, 18 Apr 2025 15:51:16 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/XeroNetStandardApp/images/xero_logo.iixwvoqxdk.png">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\xero_logo.png'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"iixwvoqxdk"},{"Name":"integrity","Value":"sha256-qjBsk6t53RwMyy/J7RtjzCxvx0hPS2CtOjy4vMLrx6g="},{"Name":"label","Value":"_content/XeroNetStandardApp/images/xero_logo.png"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"17920"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u0022qjBsk6t53RwMyy/J7RtjzCxvx0hPS2CtOjy4vMLrx6g=\u0022"},{"Name":"Last-Modified","Value":"Fri, 18 Apr 2025 15:51:16 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/XeroNetStandardApp/images/xero_logo.png">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\xero_logo.png'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-qjBsk6t53RwMyy/J7RtjzCxvx0hPS2CtOjy4vMLrx6g="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"17920"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u0022qjBsk6t53RwMyy/J7RtjzCxvx0hPS2CtOjy4vMLrx6g=\u0022"},{"Name":"Last-Modified","Value":"Fri, 18 Apr 2025 15:51:16 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/XeroNetStandardApp/js/site.hqklnnv386.js">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\js\site.js'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"hqklnnv386"},{"Name":"integrity","Value":"sha256-x8CA3N7pFgf2CbjAe0V48EYlSXVdpC8YTyV6o3DCM7M="},{"Name":"label","Value":"_content/XeroNetStandardApp/js/site.js"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"3600"},{"Name":"Content-Type","Value":"text/javascript"},{"Name":"ETag","Value":"\u0022x8CA3N7pFgf2CbjAe0V48EYlSXVdpC8YTyV6o3DCM7M=\u0022"},{"Name":"Last-Modified","Value":"Fri, 18 Apr 2025 15:51:16 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/XeroNetStandardApp/js/site.js">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\js\site.js'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-x8CA3N7pFgf2CbjAe0V48EYlSXVdpC8YTyV6o3DCM7M="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"3600"},{"Name":"Content-Type","Value":"text/javascript"},{"Name":"ETag","Value":"\u0022x8CA3N7pFgf2CbjAe0V48EYlSXVdpC8YTyV6o3DCM7M=\u0022"},{"Name":"Last-Modified","Value":"Fri, 18 Apr 2025 15:51:16 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/XeroNetStandardApp/lib/bootstrap/dist/css/bootstrap-grid.9n0ta5ieki.css">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\lib\bootstrap\dist\css\bootstrap-grid.css'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"9n0ta5ieki"},{"Name":"integrity","Value":"sha256-ezlzqfTqJZTjEDR18neKc2tUTZtWoz3oQ/ouWY9WmO8="},{"Name":"label","Value":"_content/XeroNetStandardApp/lib/bootstrap/dist/css/bootstrap-grid.css"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"68266"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022ezlzqfTqJZTjEDR18neKc2tUTZtWoz3oQ/ouWY9WmO8=\u0022"},{"Name":"Last-Modified","Value":"Fri, 18 Apr 2025 15:51:16 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/XeroNetStandardApp/lib/bootstrap/dist/css/bootstrap-grid.css">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\lib\bootstrap\dist\css\bootstrap-grid.css'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-ezlzqfTqJZTjEDR18neKc2tUTZtWoz3oQ/ouWY9WmO8="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"68266"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022ezlzqfTqJZTjEDR18neKc2tUTZtWoz3oQ/ouWY9WmO8=\u0022"},{"Name":"Last-Modified","Value":"Fri, 18 Apr 2025 15:51:16 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/XeroNetStandardApp/lib/bootstrap/dist/css/bootstrap-grid.css.0i1dcxd824.map">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\lib\bootstrap\dist\css\bootstrap-grid.css.map'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"0i1dcxd824"},{"Name":"integrity","Value":"sha256-2MgjO0zpqYZscatQSGWJ9Io9U8EjvXk0iYygYz1Q\u002BMs="},{"Name":"label","Value":"_content/XeroNetStandardApp/lib/bootstrap/dist/css/bootstrap-grid.css.map"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"151749"},{"Name":"Content-Type","Value":"text/plain"},{"Name":"ETag","Value":"\u00222MgjO0zpqYZscatQSGWJ9Io9U8EjvXk0iYygYz1Q\u002BMs=\u0022"},{"Name":"Last-Modified","Value":"Fri, 18 Apr 2025 15:51:16 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/XeroNetStandardApp/lib/bootstrap/dist/css/bootstrap-grid.css.map">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\lib\bootstrap\dist\css\bootstrap-grid.css.map'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-2MgjO0zpqYZscatQSGWJ9Io9U8EjvXk0iYygYz1Q\u002BMs="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"151749"},{"Name":"Content-Type","Value":"text/plain"},{"Name":"ETag","Value":"\u00222MgjO0zpqYZscatQSGWJ9Io9U8EjvXk0iYygYz1Q\u002BMs=\u0022"},{"Name":"Last-Modified","Value":"Fri, 18 Apr 2025 15:51:16 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/XeroNetStandardApp/lib/bootstrap/dist/css/bootstrap-grid.min.css">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\lib\bootstrap\dist\css\bootstrap-grid.min.css'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-vdSFRAWr6LTognRmxyi6QlSO5O\u002BMC\u002BVGyMbziTrBmBQ="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"48494"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022vdSFRAWr6LTognRmxyi6QlSO5O\u002BMC\u002BVGyMbziTrBmBQ=\u0022"},{"Name":"Last-Modified","Value":"Fri, 18 Apr 2025 15:51:16 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/XeroNetStandardApp/lib/bootstrap/dist/css/bootstrap-grid.min.css.jzb7jyrjvs.map">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\lib\bootstrap\dist\css\bootstrap-grid.min.css.map'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"jzb7jyrjvs"},{"Name":"integrity","Value":"sha256-kZzlXLpTC0WvL0AL7nXf07BJ28WnY/1H/HrKgS68Q4I="},{"Name":"label","Value":"_content/XeroNetStandardApp/lib/bootstrap/dist/css/bootstrap-grid.min.css.map"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"108539"},{"Name":"Content-Type","Value":"text/plain"},{"Name":"ETag","Value":"\u0022kZzlXLpTC0WvL0AL7nXf07BJ28WnY/1H/HrKgS68Q4I=\u0022"},{"Name":"Last-Modified","Value":"Fri, 18 Apr 2025 15:51:16 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/XeroNetStandardApp/lib/bootstrap/dist/css/bootstrap-grid.min.css.map">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\lib\bootstrap\dist\css\bootstrap-grid.min.css.map'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-kZzlXLpTC0WvL0AL7nXf07BJ28WnY/1H/HrKgS68Q4I="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"108539"},{"Name":"Content-Type","Value":"text/plain"},{"Name":"ETag","Value":"\u0022kZzlXLpTC0WvL0AL7nXf07BJ28WnY/1H/HrKgS68Q4I=\u0022"},{"Name":"Last-Modified","Value":"Fri, 18 Apr 2025 15:51:16 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/XeroNetStandardApp/lib/bootstrap/dist/css/bootstrap-grid.min.vxs71z90fw.css">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\lib\bootstrap\dist\css\bootstrap-grid.min.css'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"vxs71z90fw"},{"Name":"integrity","Value":"sha256-vdSFRAWr6LTognRmxyi6QlSO5O\u002BMC\u002BVGyMbziTrBmBQ="},{"Name":"label","Value":"_content/XeroNetStandardApp/lib/bootstrap/dist/css/bootstrap-grid.min.css"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"48494"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022vdSFRAWr6LTognRmxyi6QlSO5O\u002BMC\u002BVGyMbziTrBmBQ=\u0022"},{"Name":"Last-Modified","Value":"Fri, 18 Apr 2025 15:51:16 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/XeroNetStandardApp/lib/bootstrap/dist/css/bootstrap-reboot.css">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\lib\bootstrap\dist\css\bootstrap-reboot.css'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-cZWhU8ntBevnbhNEh3hunnIoi6dE1eUwX41sB6\u002BbHmo="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"5227"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022cZWhU8ntBevnbhNEh3hunnIoi6dE1eUwX41sB6\u002BbHmo=\u0022"},{"Name":"Last-Modified","Value":"Fri, 18 Apr 2025 15:51:16 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/XeroNetStandardApp/lib/bootstrap/dist/css/bootstrap-reboot.css.map">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\lib\bootstrap\dist\css\bootstrap-reboot.css.map'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-3e6awqXPijx918dzyzbbHKwaDBTsIQ8Us38QY30GRms="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"76483"},{"Name":"Content-Type","Value":"text/plain"},{"Name":"ETag","Value":"\u00223e6awqXPijx918dzyzbbHKwaDBTsIQ8Us38QY30GRms=\u0022"},{"Name":"Last-Modified","Value":"Fri, 18 Apr 2025 15:51:16 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/XeroNetStandardApp/lib/bootstrap/dist/css/bootstrap-reboot.css.tgg2bl5mrw.map">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\lib\bootstrap\dist\css\bootstrap-reboot.css.map'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"tgg2bl5mrw"},{"Name":"integrity","Value":"sha256-3e6awqXPijx918dzyzbbHKwaDBTsIQ8Us38QY30GRms="},{"Name":"label","Value":"_content/XeroNetStandardApp/lib/bootstrap/dist/css/bootstrap-reboot.css.map"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"76483"},{"Name":"Content-Type","Value":"text/plain"},{"Name":"ETag","Value":"\u00223e6awqXPijx918dzyzbbHKwaDBTsIQ8Us38QY30GRms=\u0022"},{"Name":"Last-Modified","Value":"Fri, 18 Apr 2025 15:51:16 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/XeroNetStandardApp/lib/bootstrap/dist/css/bootstrap-reboot.min.brwg1hntyu.css">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\lib\bootstrap\dist\css\bootstrap-reboot.min.css'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"brwg1hntyu"},{"Name":"integrity","Value":"sha256-1z7sRzwNyqpcTrqPd/iXuzoApqDdjpRbHwjAZ8QMhOk="},{"Name":"label","Value":"_content/XeroNetStandardApp/lib/bootstrap/dist/css/bootstrap-reboot.min.css"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"4028"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u00221z7sRzwNyqpcTrqPd/iXuzoApqDdjpRbHwjAZ8QMhOk=\u0022"},{"Name":"Last-Modified","Value":"Fri, 18 Apr 2025 15:51:16 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/XeroNetStandardApp/lib/bootstrap/dist/css/bootstrap-reboot.min.css">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\lib\bootstrap\dist\css\bootstrap-reboot.min.css'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-1z7sRzwNyqpcTrqPd/iXuzoApqDdjpRbHwjAZ8QMhOk="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"4028"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u00221z7sRzwNyqpcTrqPd/iXuzoApqDdjpRbHwjAZ8QMhOk=\u0022"},{"Name":"Last-Modified","Value":"Fri, 18 Apr 2025 15:51:16 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/XeroNetStandardApp/lib/bootstrap/dist/css/bootstrap-reboot.min.css.gf2dxac9qe.map">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\lib\bootstrap\dist\css\bootstrap-reboot.min.css.map'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"gf2dxac9qe"},{"Name":"integrity","Value":"sha256-dIm3VZXztwbIlhOzVt\u002Bggg5Dvhp28MJQGJoweOH9cAE="},{"Name":"label","Value":"_content/XeroNetStandardApp/lib/bootstrap/dist/css/bootstrap-reboot.min.css.map"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"32461"},{"Name":"Content-Type","Value":"text/plain"},{"Name":"ETag","Value":"\u0022dIm3VZXztwbIlhOzVt\u002Bggg5Dvhp28MJQGJoweOH9cAE=\u0022"},{"Name":"Last-Modified","Value":"Fri, 18 Apr 2025 15:51:16 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/XeroNetStandardApp/lib/bootstrap/dist/css/bootstrap-reboot.min.css.map">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\lib\bootstrap\dist\css\bootstrap-reboot.min.css.map'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-dIm3VZXztwbIlhOzVt\u002Bggg5Dvhp28MJQGJoweOH9cAE="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"32461"},{"Name":"Content-Type","Value":"text/plain"},{"Name":"ETag","Value":"\u0022dIm3VZXztwbIlhOzVt\u002Bggg5Dvhp28MJQGJoweOH9cAE=\u0022"},{"Name":"Last-Modified","Value":"Fri, 18 Apr 2025 15:51:16 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/XeroNetStandardApp/lib/bootstrap/dist/css/bootstrap-reboot.nynt4yc5xr.css">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\lib\bootstrap\dist\css\bootstrap-reboot.css'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"nynt4yc5xr"},{"Name":"integrity","Value":"sha256-cZWhU8ntBevnbhNEh3hunnIoi6dE1eUwX41sB6\u002BbHmo="},{"Name":"label","Value":"_content/XeroNetStandardApp/lib/bootstrap/dist/css/bootstrap-reboot.css"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"5227"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022cZWhU8ntBevnbhNEh3hunnIoi6dE1eUwX41sB6\u002BbHmo=\u0022"},{"Name":"Last-Modified","Value":"Fri, 18 Apr 2025 15:51:16 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/XeroNetStandardApp/lib/bootstrap/dist/css/bootstrap.css">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\lib\bootstrap\dist\css\bootstrap.css'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-eEx7gvq\u002BuEM0o4kUBiy/\u002BMxl6rHH9NQ9UzRBWHe9mXg="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"202385"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022eEx7gvq\u002BuEM0o4kUBiy/\u002BMxl6rHH9NQ9UzRBWHe9mXg=\u0022"},{"Name":"Last-Modified","Value":"Fri, 18 Apr 2025 15:51:16 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/XeroNetStandardApp/lib/bootstrap/dist/css/bootstrap.css.k9n1kkbua6.map">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\lib\bootstrap\dist\css\bootstrap.css.map'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"k9n1kkbua6"},{"Name":"integrity","Value":"sha256-CMAZj3JKoZUVYSxVPS/FeGatmYSvHkujo5oaZLNXx0o="},{"Name":"label","Value":"_content/XeroNetStandardApp/lib/bootstrap/dist/css/bootstrap.css.map"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"492048"},{"Name":"Content-Type","Value":"text/plain"},{"Name":"ETag","Value":"\u0022CMAZj3JKoZUVYSxVPS/FeGatmYSvHkujo5oaZLNXx0o=\u0022"},{"Name":"Last-Modified","Value":"Fri, 18 Apr 2025 15:51:16 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/XeroNetStandardApp/lib/bootstrap/dist/css/bootstrap.css.map">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\lib\bootstrap\dist\css\bootstrap.css.map'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-CMAZj3JKoZUVYSxVPS/FeGatmYSvHkujo5oaZLNXx0o="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"492048"},{"Name":"Content-Type","Value":"text/plain"},{"Name":"ETag","Value":"\u0022CMAZj3JKoZUVYSxVPS/FeGatmYSvHkujo5oaZLNXx0o=\u0022"},{"Name":"Last-Modified","Value":"Fri, 18 Apr 2025 15:51:16 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/XeroNetStandardApp/lib/bootstrap/dist/css/bootstrap.gawgt6fljy.css">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\lib\bootstrap\dist\css\bootstrap.css'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"gawgt6fljy"},{"Name":"integrity","Value":"sha256-eEx7gvq\u002BuEM0o4kUBiy/\u002BMxl6rHH9NQ9UzRBWHe9mXg="},{"Name":"label","Value":"_content/XeroNetStandardApp/lib/bootstrap/dist/css/bootstrap.css"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"202385"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022eEx7gvq\u002BuEM0o4kUBiy/\u002BMxl6rHH9NQ9UzRBWHe9mXg=\u0022"},{"Name":"Last-Modified","Value":"Fri, 18 Apr 2025 15:51:16 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/XeroNetStandardApp/lib/bootstrap/dist/css/bootstrap.min.css">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\lib\bootstrap\dist\css\bootstrap.min.css'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-rldnE7wZYJj3Q43t5v8fg1ojKRwyt0Wtfm\u002B224CacZs="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"155764"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022rldnE7wZYJj3Q43t5v8fg1ojKRwyt0Wtfm\u002B224CacZs=\u0022"},{"Name":"Last-Modified","Value":"Fri, 18 Apr 2025 15:51:16 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/XeroNetStandardApp/lib/bootstrap/dist/css/bootstrap.min.css.kao5znno1s.map">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\lib\bootstrap\dist\css\bootstrap.min.css.map'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"kao5znno1s"},{"Name":"integrity","Value":"sha256-xMZ0SaSBYZSHVjFdZTAT/IjRExRIxSriWcJLcA9nkj0="},{"Name":"label","Value":"_content/XeroNetStandardApp/lib/bootstrap/dist/css/bootstrap.min.css.map"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"625953"},{"Name":"Content-Type","Value":"text/plain"},{"Name":"ETag","Value":"\u0022xMZ0SaSBYZSHVjFdZTAT/IjRExRIxSriWcJLcA9nkj0=\u0022"},{"Name":"Last-Modified","Value":"Fri, 18 Apr 2025 15:51:16 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/XeroNetStandardApp/lib/bootstrap/dist/css/bootstrap.min.css.map">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\lib\bootstrap\dist\css\bootstrap.min.css.map'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-xMZ0SaSBYZSHVjFdZTAT/IjRExRIxSriWcJLcA9nkj0="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"625953"},{"Name":"Content-Type","Value":"text/plain"},{"Name":"ETag","Value":"\u0022xMZ0SaSBYZSHVjFdZTAT/IjRExRIxSriWcJLcA9nkj0=\u0022"},{"Name":"Last-Modified","Value":"Fri, 18 Apr 2025 15:51:16 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/XeroNetStandardApp/lib/bootstrap/dist/css/bootstrap.min.etnb7xlipe.css">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\lib\bootstrap\dist\css\bootstrap.min.css'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"etnb7xlipe"},{"Name":"integrity","Value":"sha256-rldnE7wZYJj3Q43t5v8fg1ojKRwyt0Wtfm\u002B224CacZs="},{"Name":"label","Value":"_content/XeroNetStandardApp/lib/bootstrap/dist/css/bootstrap.min.css"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"155764"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022rldnE7wZYJj3Q43t5v8fg1ojKRwyt0Wtfm\u002B224CacZs=\u0022"},{"Name":"Last-Modified","Value":"Fri, 18 Apr 2025 15:51:16 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/XeroNetStandardApp/lib/bootstrap/dist/js/bootstrap.48vr37mrsy.js">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\lib\bootstrap\dist\js\bootstrap.js'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"48vr37mrsy"},{"Name":"integrity","Value":"sha256-LKpkBN2w3iudGRseLItcNcaMpI8qlSEUC7\u002BDsnwGNwA="},{"Name":"label","Value":"_content/XeroNetStandardApp/lib/bootstrap/dist/js/bootstrap.js"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"136072"},{"Name":"Content-Type","Value":"text/javascript"},{"Name":"ETag","Value":"\u0022LKpkBN2w3iudGRseLItcNcaMpI8qlSEUC7\u002BDsnwGNwA=\u0022"},{"Name":"Last-Modified","Value":"Fri, 18 Apr 2025 15:51:16 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/XeroNetStandardApp/lib/bootstrap/dist/js/bootstrap.bundle.js">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\lib\bootstrap\dist\js\bootstrap.bundle.js'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-srIwGYgANrjaabGVuC3G7O0jv1Xh3Kt7dIc3/P0Ebf0="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"229924"},{"Name":"Content-Type","Value":"text/javascript"},{"Name":"ETag","Value":"\u0022srIwGYgANrjaabGVuC3G7O0jv1Xh3Kt7dIc3/P0Ebf0=\u0022"},{"Name":"Last-Modified","Value":"Fri, 18 Apr 2025 15:51:16 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/XeroNetStandardApp/lib/bootstrap/dist/js/bootstrap.bundle.js.map">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\lib\bootstrap\dist\js\bootstrap.bundle.js.map'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-3UpdqvoTc6M2sug8WtFhr/m3tg\u002B4zLMgoMgjqpn5n1I="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"402249"},{"Name":"Content-Type","Value":"text/plain"},{"Name":"ETag","Value":"\u00223UpdqvoTc6M2sug8WtFhr/m3tg\u002B4zLMgoMgjqpn5n1I=\u0022"},{"Name":"Last-Modified","Value":"Fri, 18 Apr 2025 15:51:16 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/XeroNetStandardApp/lib/bootstrap/dist/js/bootstrap.bundle.js.pxamm17y9e.map">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\lib\bootstrap\dist\js\bootstrap.bundle.js.map'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"pxamm17y9e"},{"Name":"integrity","Value":"sha256-3UpdqvoTc6M2sug8WtFhr/m3tg\u002B4zLMgoMgjqpn5n1I="},{"Name":"label","Value":"_content/XeroNetStandardApp/lib/bootstrap/dist/js/bootstrap.bundle.js.map"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"402249"},{"Name":"Content-Type","Value":"text/plain"},{"Name":"ETag","Value":"\u00223UpdqvoTc6M2sug8WtFhr/m3tg\u002B4zLMgoMgjqpn5n1I=\u0022"},{"Name":"Last-Modified","Value":"Fri, 18 Apr 2025 15:51:16 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/XeroNetStandardApp/lib/bootstrap/dist/js/bootstrap.bundle.min.hjuzisly30.js">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\lib\bootstrap\dist\js\bootstrap.bundle.min.js'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"hjuzisly30"},{"Name":"integrity","Value":"sha256-XZfkOGd6FuhF88h5GgEmRIpXbm\u002BhBkFo74yYDPY5rbw="},{"Name":"label","Value":"_content/XeroNetStandardApp/lib/bootstrap/dist/js/bootstrap.bundle.min.js"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"78641"},{"Name":"Content-Type","Value":"text/javascript"},{"Name":"ETag","Value":"\u0022XZfkOGd6FuhF88h5GgEmRIpXbm\u002BhBkFo74yYDPY5rbw=\u0022"},{"Name":"Last-Modified","Value":"Fri, 18 Apr 2025 15:51:16 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/XeroNetStandardApp/lib/bootstrap/dist/js/bootstrap.bundle.min.js">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\lib\bootstrap\dist\js\bootstrap.bundle.min.js'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-XZfkOGd6FuhF88h5GgEmRIpXbm\u002BhBkFo74yYDPY5rbw="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"78641"},{"Name":"Content-Type","Value":"text/javascript"},{"Name":"ETag","Value":"\u0022XZfkOGd6FuhF88h5GgEmRIpXbm\u002BhBkFo74yYDPY5rbw=\u0022"},{"Name":"Last-Modified","Value":"Fri, 18 Apr 2025 15:51:16 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/XeroNetStandardApp/lib/bootstrap/dist/js/bootstrap.bundle.min.js.map">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\lib\bootstrap\dist\js\bootstrap.bundle.min.js.map'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-8i3JQdKYQQcJzmbkwhwY\u002B1XPe7Utf1LdBnYZCvNmKWc="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"311949"},{"Name":"Content-Type","Value":"text/plain"},{"Name":"ETag","Value":"\u00228i3JQdKYQQcJzmbkwhwY\u002B1XPe7Utf1LdBnYZCvNmKWc=\u0022"},{"Name":"Last-Modified","Value":"Fri, 18 Apr 2025 15:51:16 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/XeroNetStandardApp/lib/bootstrap/dist/js/bootstrap.bundle.min.js.u9xms436mi.map">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\lib\bootstrap\dist\js\bootstrap.bundle.min.js.map'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"u9xms436mi"},{"Name":"integrity","Value":"sha256-8i3JQdKYQQcJzmbkwhwY\u002B1XPe7Utf1LdBnYZCvNmKWc="},{"Name":"label","Value":"_content/XeroNetStandardApp/lib/bootstrap/dist/js/bootstrap.bundle.min.js.map"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"311949"},{"Name":"Content-Type","Value":"text/plain"},{"Name":"ETag","Value":"\u00228i3JQdKYQQcJzmbkwhwY\u002B1XPe7Utf1LdBnYZCvNmKWc=\u0022"},{"Name":"Last-Modified","Value":"Fri, 18 Apr 2025 15:51:16 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/XeroNetStandardApp/lib/bootstrap/dist/js/bootstrap.bundle.u0biprgly9.js">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\lib\bootstrap\dist\js\bootstrap.bundle.js'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"u0biprgly9"},{"Name":"integrity","Value":"sha256-srIwGYgANrjaabGVuC3G7O0jv1Xh3Kt7dIc3/P0Ebf0="},{"Name":"label","Value":"_content/XeroNetStandardApp/lib/bootstrap/dist/js/bootstrap.bundle.js"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"229924"},{"Name":"Content-Type","Value":"text/javascript"},{"Name":"ETag","Value":"\u0022srIwGYgANrjaabGVuC3G7O0jv1Xh3Kt7dIc3/P0Ebf0=\u0022"},{"Name":"Last-Modified","Value":"Fri, 18 Apr 2025 15:51:16 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/XeroNetStandardApp/lib/bootstrap/dist/js/bootstrap.js">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\lib\bootstrap\dist\js\bootstrap.js'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-LKpkBN2w3iudGRseLItcNcaMpI8qlSEUC7\u002BDsnwGNwA="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"136072"},{"Name":"Content-Type","Value":"text/javascript"},{"Name":"ETag","Value":"\u0022LKpkBN2w3iudGRseLItcNcaMpI8qlSEUC7\u002BDsnwGNwA=\u0022"},{"Name":"Last-Modified","Value":"Fri, 18 Apr 2025 15:51:16 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/XeroNetStandardApp/lib/bootstrap/dist/js/bootstrap.js.map">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\lib\bootstrap\dist\js\bootstrap.js.map'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-R81NA2DWe8EPjZ2OUhieXYgvvXBnm78oMdeqOtSEr7c="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"250568"},{"Name":"Content-Type","Value":"text/plain"},{"Name":"ETag","Value":"\u0022R81NA2DWe8EPjZ2OUhieXYgvvXBnm78oMdeqOtSEr7c=\u0022"},{"Name":"Last-Modified","Value":"Fri, 18 Apr 2025 15:51:16 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/XeroNetStandardApp/lib/bootstrap/dist/js/bootstrap.js.vaswmcjbo4.map">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\lib\bootstrap\dist\js\bootstrap.js.map'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"vaswmcjbo4"},{"Name":"integrity","Value":"sha256-R81NA2DWe8EPjZ2OUhieXYgvvXBnm78oMdeqOtSEr7c="},{"Name":"label","Value":"_content/XeroNetStandardApp/lib/bootstrap/dist/js/bootstrap.js.map"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"250568"},{"Name":"Content-Type","Value":"text/plain"},{"Name":"ETag","Value":"\u0022R81NA2DWe8EPjZ2OUhieXYgvvXBnm78oMdeqOtSEr7c=\u0022"},{"Name":"Last-Modified","Value":"Fri, 18 Apr 2025 15:51:16 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/XeroNetStandardApp/lib/bootstrap/dist/js/bootstrap.min.js">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\lib\bootstrap\dist\js\bootstrap.min.js'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-O82ALp93hJ58HpPIcnn7uwTUWUnSvnmwNWbOrN4psVg="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"58078"},{"Name":"Content-Type","Value":"text/javascript"},{"Name":"ETag","Value":"\u0022O82ALp93hJ58HpPIcnn7uwTUWUnSvnmwNWbOrN4psVg=\u0022"},{"Name":"Last-Modified","Value":"Fri, 18 Apr 2025 15:51:16 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/XeroNetStandardApp/lib/bootstrap/dist/js/bootstrap.min.js.map">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\lib\bootstrap\dist\js\bootstrap.min.js.map'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-vMfBbEXmojM9AaHrIyKSo\u002B20n5JM7KMyJkBCfL4pgL4="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"190253"},{"Name":"Content-Type","Value":"text/plain"},{"Name":"ETag","Value":"\u0022vMfBbEXmojM9AaHrIyKSo\u002B20n5JM7KMyJkBCfL4pgL4=\u0022"},{"Name":"Last-Modified","Value":"Fri, 18 Apr 2025 15:51:16 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/XeroNetStandardApp/lib/bootstrap/dist/js/bootstrap.min.js.sgi57dik4g.map">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\lib\bootstrap\dist\js\bootstrap.min.js.map'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"sgi57dik4g"},{"Name":"integrity","Value":"sha256-vMfBbEXmojM9AaHrIyKSo\u002B20n5JM7KMyJkBCfL4pgL4="},{"Name":"label","Value":"_content/XeroNetStandardApp/lib/bootstrap/dist/js/bootstrap.min.js.map"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"190253"},{"Name":"Content-Type","Value":"text/plain"},{"Name":"ETag","Value":"\u0022vMfBbEXmojM9AaHrIyKSo\u002B20n5JM7KMyJkBCfL4pgL4=\u0022"},{"Name":"Last-Modified","Value":"Fri, 18 Apr 2025 15:51:16 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/XeroNetStandardApp/lib/bootstrap/dist/js/bootstrap.min.zu238p5lxg.js">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\lib\bootstrap\dist\js\bootstrap.min.js'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"zu238p5lxg"},{"Name":"integrity","Value":"sha256-O82ALp93hJ58HpPIcnn7uwTUWUnSvnmwNWbOrN4psVg="},{"Name":"label","Value":"_content/XeroNetStandardApp/lib/bootstrap/dist/js/bootstrap.min.js"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"58078"},{"Name":"Content-Type","Value":"text/javascript"},{"Name":"ETag","Value":"\u0022O82ALp93hJ58HpPIcnn7uwTUWUnSvnmwNWbOrN4psVg=\u0022"},{"Name":"Last-Modified","Value":"Fri, 18 Apr 2025 15:51:16 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/XeroNetStandardApp/lib/bootstrap/LICENSE">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\lib\bootstrap\LICENSE'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-iMA3h2QDzhvwmVtohviPpq8VwRv3UMY/PEE\u002Bao7bBq0="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"1153"},{"Name":"Content-Type","Value":"application/octet-stream"},{"Name":"ETag","Value":"\u0022iMA3h2QDzhvwmVtohviPpq8VwRv3UMY/PEE\u002Bao7bBq0=\u0022"},{"Name":"Last-Modified","Value":"Fri, 18 Apr 2025 15:51:16 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/XeroNetStandardApp/lib/bootstrap/LICENSE.weyt030wr8">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\lib\bootstrap\LICENSE'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"weyt030wr8"},{"Name":"integrity","Value":"sha256-iMA3h2QDzhvwmVtohviPpq8VwRv3UMY/PEE\u002Bao7bBq0="},{"Name":"label","Value":"_content/XeroNetStandardApp/lib/bootstrap/LICENSE"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"1153"},{"Name":"Content-Type","Value":"application/octet-stream"},{"Name":"ETag","Value":"\u0022iMA3h2QDzhvwmVtohviPpq8VwRv3UMY/PEE\u002Bao7bBq0=\u0022"},{"Name":"Last-Modified","Value":"Fri, 18 Apr 2025 15:51:16 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/XeroNetStandardApp/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.dvc2bfcndg.js">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\lib\jquery-validation-unobtrusive\jquery.validate.unobtrusive.js'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"dvc2bfcndg"},{"Name":"integrity","Value":"sha256-qbS02vMHZxdLNYKUtLPSYaSHXj1/ZwH1fv9f3XAY0LU="},{"Name":"label","Value":"_content/XeroNetStandardApp/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"19798"},{"Name":"Content-Type","Value":"text/javascript"},{"Name":"ETag","Value":"\u0022qbS02vMHZxdLNYKUtLPSYaSHXj1/ZwH1fv9f3XAY0LU=\u0022"},{"Name":"Last-Modified","Value":"Fri, 18 Apr 2025 15:51:16 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/XeroNetStandardApp/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\lib\jquery-validation-unobtrusive\jquery.validate.unobtrusive.js'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-qbS02vMHZxdLNYKUtLPSYaSHXj1/ZwH1fv9f3XAY0LU="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"19798"},{"Name":"Content-Type","Value":"text/javascript"},{"Name":"ETag","Value":"\u0022qbS02vMHZxdLNYKUtLPSYaSHXj1/ZwH1fv9f3XAY0LU=\u0022"},{"Name":"Last-Modified","Value":"Fri, 18 Apr 2025 15:51:16 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/XeroNetStandardApp/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.gb7ocvbhts.js">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\lib\jquery-validation-unobtrusive\jquery.validate.unobtrusive.min.js'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"gb7ocvbhts"},{"Name":"integrity","Value":"sha256-9GycpJnliUjJDVDqP0UEu/bsm9U\u002B3dnQUH8\u002B3W10vkY="},{"Name":"label","Value":"_content/XeroNetStandardApp/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"5871"},{"Name":"Content-Type","Value":"text/javascript"},{"Name":"ETag","Value":"\u00229GycpJnliUjJDVDqP0UEu/bsm9U\u002B3dnQUH8\u002B3W10vkY=\u0022"},{"Name":"Last-Modified","Value":"Fri, 18 Apr 2025 15:51:16 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/XeroNetStandardApp/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\lib\jquery-validation-unobtrusive\jquery.validate.unobtrusive.min.js'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-9GycpJnliUjJDVDqP0UEu/bsm9U\u002B3dnQUH8\u002B3W10vkY="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"5871"},{"Name":"Content-Type","Value":"text/javascript"},{"Name":"ETag","Value":"\u00229GycpJnliUjJDVDqP0UEu/bsm9U\u002B3dnQUH8\u002B3W10vkY=\u0022"},{"Name":"Last-Modified","Value":"Fri, 18 Apr 2025 15:51:16 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/XeroNetStandardApp/lib/jquery-validation-unobtrusive/LICENSE.txt">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\lib\jquery-validation-unobtrusive\LICENSE.txt'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-aBc/n/nO9esvq0e80G57lEYLonvE5dKKUgoozaiVfLM="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"587"},{"Name":"Content-Type","Value":"text/plain"},{"Name":"ETag","Value":"\u0022aBc/n/nO9esvq0e80G57lEYLonvE5dKKUgoozaiVfLM=\u0022"},{"Name":"Last-Modified","Value":"Fri, 18 Apr 2025 15:51:16 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/XeroNetStandardApp/lib/jquery-validation-unobtrusive/LICENSE.wqejeusuyq.txt">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\lib\jquery-validation-unobtrusive\LICENSE.txt'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"wqejeusuyq"},{"Name":"integrity","Value":"sha256-aBc/n/nO9esvq0e80G57lEYLonvE5dKKUgoozaiVfLM="},{"Name":"label","Value":"_content/XeroNetStandardApp/lib/jquery-validation-unobtrusive/LICENSE.txt"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"587"},{"Name":"Content-Type","Value":"text/plain"},{"Name":"ETag","Value":"\u0022aBc/n/nO9esvq0e80G57lEYLonvE5dKKUgoozaiVfLM=\u0022"},{"Name":"Last-Modified","Value":"Fri, 18 Apr 2025 15:51:16 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/XeroNetStandardApp/lib/jquery-validation/dist/additional-methods.js">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\lib\jquery-validation\dist\additional-methods.js'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-qLDpf9Urms7R6rnASrjHz38WdQfOvSOmTgLDfzQSzIQ="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"43184"},{"Name":"Content-Type","Value":"text/javascript"},{"Name":"ETag","Value":"\u0022qLDpf9Urms7R6rnASrjHz38WdQfOvSOmTgLDfzQSzIQ=\u0022"},{"Name":"Last-Modified","Value":"Fri, 18 Apr 2025 15:51:16 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/XeroNetStandardApp/lib/jquery-validation/dist/additional-methods.min.js">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\lib\jquery-validation\dist\additional-methods.min.js'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-2F/T6dcoSumcuA/fcU4W36VpSKPtq4nQf/0/vNFsC\u002Bw="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"18467"},{"Name":"Content-Type","Value":"text/javascript"},{"Name":"ETag","Value":"\u00222F/T6dcoSumcuA/fcU4W36VpSKPtq4nQf/0/vNFsC\u002Bw=\u0022"},{"Name":"Last-Modified","Value":"Fri, 18 Apr 2025 15:51:16 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/XeroNetStandardApp/lib/jquery-validation/dist/additional-methods.min.sjab29p8z5.js">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\lib\jquery-validation\dist\additional-methods.min.js'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"sjab29p8z5"},{"Name":"integrity","Value":"sha256-2F/T6dcoSumcuA/fcU4W36VpSKPtq4nQf/0/vNFsC\u002Bw="},{"Name":"label","Value":"_content/XeroNetStandardApp/lib/jquery-validation/dist/additional-methods.min.js"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"18467"},{"Name":"Content-Type","Value":"text/javascript"},{"Name":"ETag","Value":"\u00222F/T6dcoSumcuA/fcU4W36VpSKPtq4nQf/0/vNFsC\u002Bw=\u0022"},{"Name":"Last-Modified","Value":"Fri, 18 Apr 2025 15:51:16 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/XeroNetStandardApp/lib/jquery-validation/dist/additional-methods.wus95c49fh.js">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\lib\jquery-validation\dist\additional-methods.js'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"wus95c49fh"},{"Name":"integrity","Value":"sha256-qLDpf9Urms7R6rnASrjHz38WdQfOvSOmTgLDfzQSzIQ="},{"Name":"label","Value":"_content/XeroNetStandardApp/lib/jquery-validation/dist/additional-methods.js"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"43184"},{"Name":"Content-Type","Value":"text/javascript"},{"Name":"ETag","Value":"\u0022qLDpf9Urms7R6rnASrjHz38WdQfOvSOmTgLDfzQSzIQ=\u0022"},{"Name":"Last-Modified","Value":"Fri, 18 Apr 2025 15:51:16 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/XeroNetStandardApp/lib/jquery-validation/dist/jquery.validate.d2pxujwhw3.js">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\lib\jquery-validation\dist\jquery.validate.js'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"d2pxujwhw3"},{"Name":"integrity","Value":"sha256-27gs04nyeNuL9zc/GLQLjdbZqhNGvH\u002BxIYgnYVPIawE="},{"Name":"label","Value":"_content/XeroNetStandardApp/lib/jquery-validation/dist/jquery.validate.js"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"50276"},{"Name":"Content-Type","Value":"text/javascript"},{"Name":"ETag","Value":"\u002227gs04nyeNuL9zc/GLQLjdbZqhNGvH\u002BxIYgnYVPIawE=\u0022"},{"Name":"Last-Modified","Value":"Fri, 18 Apr 2025 15:51:16 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/XeroNetStandardApp/lib/jquery-validation/dist/jquery.validate.js">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\lib\jquery-validation\dist\jquery.validate.js'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-27gs04nyeNuL9zc/GLQLjdbZqhNGvH\u002BxIYgnYVPIawE="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"50276"},{"Name":"Content-Type","Value":"text/javascript"},{"Name":"ETag","Value":"\u002227gs04nyeNuL9zc/GLQLjdbZqhNGvH\u002BxIYgnYVPIawE=\u0022"},{"Name":"Last-Modified","Value":"Fri, 18 Apr 2025 15:51:16 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/XeroNetStandardApp/lib/jquery-validation/dist/jquery.validate.min.4dm14o4hmc.js">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\lib\jquery-validation\dist\jquery.validate.min.js'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"4dm14o4hmc"},{"Name":"integrity","Value":"sha256-eItLFOyfQ4d/OGzEnGchi2ZMVF8EhGgzS0k7fSOPifQ="},{"Name":"label","Value":"_content/XeroNetStandardApp/lib/jquery-validation/dist/jquery.validate.min.js"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"23264"},{"Name":"Content-Type","Value":"text/javascript"},{"Name":"ETag","Value":"\u0022eItLFOyfQ4d/OGzEnGchi2ZMVF8EhGgzS0k7fSOPifQ=\u0022"},{"Name":"Last-Modified","Value":"Fri, 18 Apr 2025 15:51:16 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/XeroNetStandardApp/lib/jquery-validation/dist/jquery.validate.min.js">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\lib\jquery-validation\dist\jquery.validate.min.js'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-eItLFOyfQ4d/OGzEnGchi2ZMVF8EhGgzS0k7fSOPifQ="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"23264"},{"Name":"Content-Type","Value":"text/javascript"},{"Name":"ETag","Value":"\u0022eItLFOyfQ4d/OGzEnGchi2ZMVF8EhGgzS0k7fSOPifQ=\u0022"},{"Name":"Last-Modified","Value":"Fri, 18 Apr 2025 15:51:16 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/XeroNetStandardApp/lib/jquery-validation/LICENSE.md">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\lib\jquery-validation\LICENSE.md'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-geHEkw/WGPdaHQMRq5HuNY9snliNzU/y2OW8ycnhGXw="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"1117"},{"Name":"Content-Type","Value":"text/markdown"},{"Name":"ETag","Value":"\u0022geHEkw/WGPdaHQMRq5HuNY9snliNzU/y2OW8ycnhGXw=\u0022"},{"Name":"Last-Modified","Value":"Fri, 18 Apr 2025 15:51:16 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/XeroNetStandardApp/lib/jquery-validation/LICENSE.x0q3zqp4vz.md">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\lib\jquery-validation\LICENSE.md'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"x0q3zqp4vz"},{"Name":"integrity","Value":"sha256-geHEkw/WGPdaHQMRq5HuNY9snliNzU/y2OW8ycnhGXw="},{"Name":"label","Value":"_content/XeroNetStandardApp/lib/jquery-validation/LICENSE.md"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"1117"},{"Name":"Content-Type","Value":"text/markdown"},{"Name":"ETag","Value":"\u0022geHEkw/WGPdaHQMRq5HuNY9snliNzU/y2OW8ycnhGXw=\u0022"},{"Name":"Last-Modified","Value":"Fri, 18 Apr 2025 15:51:16 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/XeroNetStandardApp/lib/jquery/dist/jquery.a8eee2794i.js">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\lib\jquery\dist\jquery.js'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"a8eee2794i"},{"Name":"integrity","Value":"sha256-igUc00PXGT1YBL1/Kf7QYy9fPlLqZKcEGrCqDz3EFDI="},{"Name":"label","Value":"_content/XeroNetStandardApp/lib/jquery/dist/jquery.js"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"282115"},{"Name":"Content-Type","Value":"text/javascript"},{"Name":"ETag","Value":"\u0022igUc00PXGT1YBL1/Kf7QYy9fPlLqZKcEGrCqDz3EFDI=\u0022"},{"Name":"Last-Modified","Value":"Fri, 18 Apr 2025 15:51:16 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/XeroNetStandardApp/lib/jquery/dist/jquery.js">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\lib\jquery\dist\jquery.js'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-igUc00PXGT1YBL1/Kf7QYy9fPlLqZKcEGrCqDz3EFDI="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"282115"},{"Name":"Content-Type","Value":"text/javascript"},{"Name":"ETag","Value":"\u0022igUc00PXGT1YBL1/Kf7QYy9fPlLqZKcEGrCqDz3EFDI=\u0022"},{"Name":"Last-Modified","Value":"Fri, 18 Apr 2025 15:51:16 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/XeroNetStandardApp/lib/jquery/dist/jquery.min.b804xvqo1w.map">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\lib\jquery\dist\jquery.min.map'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"b804xvqo1w"},{"Name":"integrity","Value":"sha256-1eiGMA0y1kD5P/bXnTaiTKk8vtvQ8IC2nXAoI1HJXyE="},{"Name":"label","Value":"_content/XeroNetStandardApp/lib/jquery/dist/jquery.min.map"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"132370"},{"Name":"Content-Type","Value":"text/plain"},{"Name":"ETag","Value":"\u00221eiGMA0y1kD5P/bXnTaiTKk8vtvQ8IC2nXAoI1HJXyE=\u0022"},{"Name":"Last-Modified","Value":"Fri, 18 Apr 2025 15:51:16 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/XeroNetStandardApp/lib/jquery/dist/jquery.min.fc9074g7ds.js">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\lib\jquery\dist\jquery.min.js'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"fc9074g7ds"},{"Name":"integrity","Value":"sha256-T\u002BaPohYXbm0fRYDpJLr\u002BzJ9RmYTswGsahAoIsNiMld4="},{"Name":"label","Value":"_content/XeroNetStandardApp/lib/jquery/dist/jquery.min.js"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"86929"},{"Name":"Content-Type","Value":"text/javascript"},{"Name":"ETag","Value":"\u0022T\u002BaPohYXbm0fRYDpJLr\u002BzJ9RmYTswGsahAoIsNiMld4=\u0022"},{"Name":"Last-Modified","Value":"Fri, 18 Apr 2025 15:51:16 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/XeroNetStandardApp/lib/jquery/dist/jquery.min.js">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\lib\jquery\dist\jquery.min.js'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-T\u002BaPohYXbm0fRYDpJLr\u002BzJ9RmYTswGsahAoIsNiMld4="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"86929"},{"Name":"Content-Type","Value":"text/javascript"},{"Name":"ETag","Value":"\u0022T\u002BaPohYXbm0fRYDpJLr\u002BzJ9RmYTswGsahAoIsNiMld4=\u0022"},{"Name":"Last-Modified","Value":"Fri, 18 Apr 2025 15:51:16 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/XeroNetStandardApp/lib/jquery/dist/jquery.min.map">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\lib\jquery\dist\jquery.min.map'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-1eiGMA0y1kD5P/bXnTaiTKk8vtvQ8IC2nXAoI1HJXyE="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"132370"},{"Name":"Content-Type","Value":"text/plain"},{"Name":"ETag","Value":"\u00221eiGMA0y1kD5P/bXnTaiTKk8vtvQ8IC2nXAoI1HJXyE=\u0022"},{"Name":"Last-Modified","Value":"Fri, 18 Apr 2025 15:51:16 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/XeroNetStandardApp/lib/jquery/LICENSE.afgyafcsqt.txt">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\lib\jquery\LICENSE.txt'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"afgyafcsqt"},{"Name":"integrity","Value":"sha256-WtKlDye/qV68IA2W1tHFTyXyc/HjQvQKBpIK1CEulFM="},{"Name":"label","Value":"_content/XeroNetStandardApp/lib/jquery/LICENSE.txt"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"1641"},{"Name":"Content-Type","Value":"text/plain"},{"Name":"ETag","Value":"\u0022WtKlDye/qV68IA2W1tHFTyXyc/HjQvQKBpIK1CEulFM=\u0022"},{"Name":"Last-Modified","Value":"Fri, 18 Apr 2025 15:51:16 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/XeroNetStandardApp/lib/jquery/LICENSE.txt">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\lib\jquery\LICENSE.txt'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-WtKlDye/qV68IA2W1tHFTyXyc/HjQvQKBpIK1CEulFM="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"1641"},{"Name":"Content-Type","Value":"text/plain"},{"Name":"ETag","Value":"\u0022WtKlDye/qV68IA2W1tHFTyXyc/HjQvQKBpIK1CEulFM=\u0022"},{"Name":"Last-Modified","Value":"Fri, 18 Apr 2025 15:51:16 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+  </ItemGroup>
+</Project>
